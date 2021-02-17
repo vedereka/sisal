@@ -37,3 +37,13 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# wokam and coastal data files 
+/sisal_wokam_plot/input/
+/sisal_wokam_plot/output/
+
+# list of identified sites 
+/sisalv2_paper/*.csv
+
+# db comparison output
+/sisalv2_paper/output/

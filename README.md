@@ -4,7 +4,7 @@ Created by Laia Comas Bru in February 2021.
 
 # README
 
-## /DB_uploads/`
+## `/DB_uploads/`
 
 `/DB_uploads/Upload_workbooks.py`
 Script uploads workbook to the database. This is executed from the command line as follows:
@@ -21,18 +21,16 @@ Script with the functions needed to run `/DB_uploads/Example_upload_SISAL_agemod
 ## `/SISAL_sites_wokam_plot/`
 
 `map_sites_count_labels.R`
-Script to produce Figure X in Baker et al., 2021 (ESR accepted). See output at 
-`/SISAL_sites_wokam_plot/output/map_sites_count_labels_plot.pdf`
+Script to produce Figure X in Baker et al., 2021 (ESR accepted). Output saved in `/SISAL_sites_wokam_plot/output/map_sites_count_labels_plot.pdf`
 
 `map_sites_versions.R`
-Scripts to produce Figure 2 in Comas-Bru et al. 2020 (ESSD; https://doi.org/10.5194/essd-12-2579-2020)
-See output at `/SISAL_sites_wokam_plot/output/map_sites_versions.pdf`
+Scripts to produce Figure 2 in Comas-Bru et al. 2020 (ESSD; https://doi.org/10.5194/essd-12-2579-2020). Output is saved in `/SISAL_sites_wokam_plot/output/`
 
-`/SISAL_sites_wokam_plot/input/wokam 
-World Karst Aquifer Map data from Goldscheider, N., Chen, Z., Auler, A.S. et al. Global distribution of carbonate rocks and karst water resources. Hydrogeol J 28, 1661–1677 (2020). https://doi.org/10.1007/s10040-020-02139-5
+`/SISAL_sites_wokam_plot/input/wokam/`
+World Karst Aquifer Map shp data file from Goldscheider, N., Chen, Z., Auler, A.S. et al. Global distribution of carbonate rocks and karst water resources. Hydrogeol J 28, 1661–1677 (2020). https://doi.org/10.1007/s10040-020-02139-5
 
-`/SISAL_sites_wokam_plot/input/ne_110m_land
-Coastal data from http://www.naturalearthdata.com/downloads/110m-physical-vectors/
+`/SISAL_sites_wokam_plot/input/ne_110m_land/`
+Coastal shp data file from http://www.naturalearthdata.com/downloads/110m-physical-vectors/
 
 ---
 

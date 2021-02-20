@@ -1,15 +1,13 @@
-rm(list=ls()) 
+# Clear plots
 graphics.off()
 
-library(RMariaDB) 
-library(ggplot2) # fortify and plotting
-library (dplyr) # filter
-library(ggrepel) # non overlapping labels
-# work with spatial data; sp package will load with rgdal.
-library(rgdal)
-library(rgeos)
-# for metadata/attributes- vectors or rasters
-library(raster)
+# Clear environment
+rm(list = ls())
+
+# load contributed packages
+if(!require("pacman")) install.packages ("pacman")
+options("rgdal_show_exportToProj4_warnings"="none")
+pacman::p_load (RMariaDB, ggrepel, dplyr, ggplot2, sp, rgdal, rgeos, raster)
 
 #### Connect to SISAL and create log file to save prints ####
 
@@ -95,4 +93,19 @@ p <- mp +  geom_point(data = t, aes (x = longitude, y = latitude, color = versio
 cairo_pdf(paste(plotpath,'map_sites_versions.pdf',sep=""), width = 11.69, height = 8.27, onefile = T)
 
 print(p)
-graphics.off() # release printing device
+
+# clear packages
+pacman::p_unload(all)
+detach("package:datasets", unload=T)
+
+# Clear packages
+p_unload(all)  # Remove all add-ons
+
+# Clear plots
+graphics.off()
+
+# Clear environment
+rm(list = ls())
+
+# # clear console
+cat("\014") #ctrl+L

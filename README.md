@@ -6,17 +6,17 @@ Created by Laia Comas Bru in February 2021.
 
 ## `/DB_uploads/`
 
-`/DB_uploads/Upload_workbooks.py`
+`Upload_workbooks.py`
 Script uploads workbook to the database. This is executed from the command line as follows:
 * python Upload_workbooks.py input.xlsx
 
-`/DB_uploads/Example_upload_SISAL_agemodels.R`
+`Example_upload_SISAL_agemodels.R`
 Script showing an example on how to upload the SISAL chronology and the date_used fields to the database.
 
-`/DB_uploads/Upload_SISAL_agemodels.R`
+`Upload_SISAL_agemodels.R`
 Script with the functions needed to run `/DB_uploads/Example_upload_SISAL_agemodels.R`
 
-`/SISAL - documentation for database managers.pdf` Documentation for db manager 
+`SISAL - documentation for database managers.pdf` Documentation for db manager 
 
 ---
 
@@ -28,10 +28,10 @@ Script to produce Figure X in Baker et al., 2021 (ESR accepted). Output saved in
 `map_sites_versions.R`
 Scripts to produce Figure 2 in Comas-Bru et al. 2020 (ESSD; https://doi.org/10.5194/essd-12-2579-2020). Output is saved in `/SISAL_sites_wokam_plot/output/`
 
-`/SISAL_sites_wokam_plot/input/wokam/`
+`/input/wokam/`
 World Karst Aquifer Map shp data file from Goldscheider, N., Chen, Z., Auler, A.S. et al. Global distribution of carbonate rocks and karst water resources. Hydrogeol J 28, 1661–1677 (2020). https://doi.org/10.1007/s10040-020-02139-5
 
-`/SISAL_sites_wokam_plot/input/ne_110m_land/`
+`/input/ne_110m_land/`
 Coastal shp data file from http://www.naturalearthdata.com/downloads/110m-physical-vectors/
 
 ---
@@ -80,6 +80,8 @@ Excel document to automatically convert geographical coordinates from decimal to
 
 `Atomic-Activity-deltaU Calculator.xlsx`
 Excel document to automatically convert ratios to activities. 
+
+`SISAL_v2_QC_details.pdf` Details of automatic and manual checks 
 
 ---
 

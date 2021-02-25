@@ -4,7 +4,7 @@ Created by Laia Comas Bru in February 2021.
 
 # README
 
-## `/DB_uploads/`
+## `/db_uploads/`
 
 `Upload_workbooks.py`
 Script uploads workbook to the database. This is executed from the command line as follows:
@@ -20,7 +20,7 @@ Script with the functions needed to run `/DB_uploads/Example_upload_SISAL_agemod
 
 ---
 
-## `/SISAL_sites_wokam_plot/`
+## `/sisal_wokam_plot/`
 
 `map_sites_count_labels.R`
 Script to produce Figure X in Baker et al., 2021 (ESR accepted). Output saved in `/SISAL_sites_wokam_plot/output/map_sites_count_labels_plot.pdf`
@@ -33,6 +33,17 @@ World Karst Aquifer Map shp data file from Goldscheider, N., Chen, Z., Auler, A.
 
 `/input/ne_110m_land/`
 Coastal shp data file from http://www.naturalearthdata.com/downloads/110m-physical-vectors/
+
+---
+
+## `/sisal_regional_map_resolution/`
+
+`sisalv2_map_resolution_region.R`
+Script to create regional maps with the location of SISAL sites and the number of entities per site (with the World Karst Aquifer map in the background) as well as the “resolution map” for all the sisal entities in that region.
+
+`/input/wokam/` World Karst Aquifer Map shp data file from Goldscheider, N., Chen, Z., Auler, A.S. et al. Global distribution of carbonate rocks and karst water resources. Hydrogeol J 28, 1661–1677 (2020). https://doi.org/10.1007/s10040-020-02139-5 
+
+`/input/ne_110m_land/` Coastal shp data file from http://www.naturalearthdata.com/downloads/110m-physical-vectors/ 
 
 ---
 

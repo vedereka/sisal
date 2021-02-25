@@ -16,6 +16,8 @@ Script showing an example on how to upload the SISAL chronology and the date_use
 `/DB_uploads/Upload_SISAL_agemodels.R`
 Script with the functions needed to run `/DB_uploads/Example_upload_SISAL_agemodels.R`
 
+`/SISAL - documentation for database managers.pdf` Documentation for db manager 
+
 ---
 
 ## `/SISAL_sites_wokam_plot/`

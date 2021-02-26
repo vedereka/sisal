@@ -1,0 +1,692 @@
+site_id,entity_id,entity_name,entity_status,corresponding_current,depth_ref,cover_thickness,distance_entrance,speleothem_type,drip_type,d13C,d18O,d18O_water_equilibrium,trace_elements,organics,fluid_inclusions,mineralogy_petrology_fabric,clumped_isotopes,noble_gas_temperatures,C14,ODL,Mg_Ca,contact,data_DOI_URL
+1,1,BT-1,current,NULL,"from top",30,32.4,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,no,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/20449
+1,2,BT-2.1,current,NULL,"from top",30,32.4,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,no,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/20449
+1,3,BT-2.2,current,NULL,"from top",30,32.4,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,no,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/20449
+1,4,BT-2.3,current,NULL,"from top",30,32.4,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,no,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/20449
+1,5,BT-2.4,current,NULL,"from top",30,32.4,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,no,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/20449
+1,6,BT-2.5,current,NULL,"from top",30,32.4,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,no,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/20449
+1,7,BT-4,current,NULL,"from top",30,32.4,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,no,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/20449
+1,8,BT-6,current,NULL,"from top",30,32.4,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,no,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/20449
+1,9,BT-8,current,NULL,"from top",30,32.4,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,no,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/20449
+1,10,BT-9,current,NULL,"from top",30,32.4,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,no,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/20449
+2,11,KS06-A-H,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Hai Cheng","https://www.ncdc.noaa.gov/paleo/study/21350 "
+2,12,KS06-A,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/21351
+2,13,KS06-B,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/21352
+2,14,KS08-1-H,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/21353
+2,15,KS08-1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/21354
+2,16,KS08-2-H,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/21355
+2,17,KS08-2,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/21356
+2,18,KS08-2-MIS3,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/21357
+2,19,KS08-6,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/21357
+3,20,PAR01,current,NULL,"from top",NULL,200,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Xianfeng Wang",NULL
+3,21,PAR03,current,NULL,"from top",NULL,200,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Xianfeng Wang",NULL
+3,22,PAR06,current,NULL,"from top",NULL,500,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Xianfeng Wang",NULL
+3,23,PAR07,current,NULL,"from top",NULL,500,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Xianfeng Wang",NULL
+3,24,PAR08,current,NULL,"from top",NULL,500,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Xianfeng Wang",NULL
+3,25,PAR16,current,NULL,"from top",NULL,200,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Xianfeng Wang",NULL
+3,26,PAR24,current,NULL,"from top",NULL,200,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Xianfeng Wang",NULL
+4,27,Vil-stm6,current,NULL,"from base",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Inga Labuhn",NULL
+4,28,Vil-stm9,current,NULL,"from base",30,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,no,"Inga Labuhn",NULL
+4,29,Vil-stm11,current,NULL,"from base",40,200,stalagmite,unknown,yes,yes,no,yes,no,no,no,no,no,no,no,no,"Inga Labuhn",NULL
+4,30,Vil-stm14,current,NULL,"from base",30,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Inga Labuhn",NULL
+4,31,Vil-stm27,current,NULL,"from base",30,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,no,"Inga Labuhn",NULL
+4,32,Vil-car1,current,NULL,"from top",25,150,flowstone,unknown,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,"Inga Labuhn",NULL
+4,33,Vil-stm1,current,NULL,"from top",8,150,stalagmite,unknown,yes,yes,no,yes,no,yes,no,no,no,yes,no,no,"Inga Labuhn",NULL
+5,34,YK5,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Ting Yong Li",NULL
+5,35,YK12,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Ting Yong Li",NULL
+5,36,YK23,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Ting Yong Li",NULL
+5,37,YK47,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Ting Yong Li",NULL
+5,38,YK61,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Ting Yong Li",NULL
+5,39,JFYK7,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Ting Yong Li",NULL
+6,40,MSD,current,NULL,"from top",NULL,35,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/5426
+6,41,MSL,current,NULL,"from top",NULL,35,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/5426
+6,42,PD,current,NULL,"from top",NULL,35,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/5426
+6,43,YT,current,NULL,"from top",NULL,35,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/5426
+6,44,H82,current,NULL,"from top",NULL,35,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/5426
+7,45,T5,current,NULL,"from top",22.5,100,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Kerstin Braun",NULL
+7,46,T7_1999,superseded,49,"from top",22.5,100,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",https://www.ncdc.noaa.gov/paleo/study/5420
+7,47,T7_2001,superseded,49,"from top",22.5,100,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",https://www.ncdc.noaa.gov/paleo/study/5420
+7,48,T8,current,NULL,"from top",22.5,100,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",https://www.ncdc.noaa.gov/paleo/study/5432
+7,49,T7_2013,current,NULL,"from top",22.5,100,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",https://www.ncdc.noaa.gov/paleo/study/14349
+8,50,LH-70s-1,current,NULL,"from top",50,250,stalagmite,unknown,yes,yes,unknown,yes,no,yes,no,no,no,no,no,yes,"Tim Atkinson",NULL
+8,51,LH-70s-2,current,NULL,"from top",50,250,stalagmite,unknown,yes,yes,unknown,yes,no,yes,no,no,no,no,no,yes,"Tim Atkinson",NULL
+8,52,LH-70s-3,current,NULL,"from top",50,250,stalagmite,unknown,yes,yes,unknown,yes,no,yes,no,no,no,no,no,yes,"Tim Atkinson",NULL
+9,53,TON-1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,unknown,no,no,no,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/20450
+9,54,TON-2,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,unknown,no,no,no,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/20450
+10,55,JAR7,current,NULL,"from top",NULL,300,stalagmite,"seasonal drip",no,yes,yes,no,no,no,no,no,no,no,no,no,"Valdir Felipe Novello",10.1594/PANGAEA.878256
+10,56,JAR14,current,NULL,"from top",NULL,300,stalagmite,"seasonal drip",no,yes,yes,no,no,no,no,no,no,no,no,no,"Valdir Felipe Novello",10.1594/PANGAEA.878256
+10,57,JAR13,current,NULL,"from top",NULL,300,stalagmite,"seasonal drip",no,yes,yes,no,no,no,no,no,no,no,no,no,"Valdir Felipe Novello",10.1594/PANGAEA.878256
+11,58,Jeita-1,current,NULL,"from top",100,200,stalagmite,unknown,yes,yes,yes,yes,no,no,yes,no,unknown,no,no,no,"Hai Cheng","https://www.ncdc.noaa.gov/paleo/study/20446 "
+11,59,Jeita-2,current,NULL,"from top",100,200,stalagmite,unknown,yes,yes,yes,yes,no,no,yes,no,unknown,no,no,no,"Hai Cheng","https://www.ncdc.noaa.gov/paleo/study/20446 "
+11,60,Jeita-3,current,NULL,"from top",100,200,stalagmite,unknown,yes,yes,yes,yes,no,no,yes,no,unknown,no,no,no,"Hai Cheng","https://www.ncdc.noaa.gov/paleo/study/20446 "
+12,61,KM-A,current,NULL,"from top",NULL,1290,stalagmite,unknown,no,yes,no,no,no,no,no,no,no,no,no,no,"Nikita Kaushal",https://www.ncdc.noaa.gov/paleo/study/12912
+12,62,MWS-1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,unknown,yes,unknown,no,no,no,no,no,unknown,no,no,no,"Nikita Kaushal",NULL
+12,63,MAW-6,current,NULL,"from top",30,NULL,stalagmite,unknown,yes,yes,no,no,no,no,yes,no,no,no,no,no,"Franziska Lechleitner",NULL
+13,64,BGC-6,current,NULL,"from base",NULL,300,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker",https://www.ncdc.noaa.gov/paleo/study/14648
+13,65,BGC-11_2013,superseded,635,"from base",NULL,300,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker",https://www.ncdc.noaa.gov/paleo/study/14648
+13,66,BGC-14,current,NULL,"from base",NULL,300,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker",https://www.ncdc.noaa.gov/paleo/study/14648
+14,67,LMC-14,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Matthew Lachniet",NULL
+14,68,LMC-21,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Matthew Lachniet",NULL
+14,69,LC-2,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Matthew Lachniet",NULL
+15,70,BA-1b,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Gina Moseley",https://www.ncdc.noaa.gov/paleo/study/12279
+15,71,BA-1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,unknown,"Gina Moseley",https://www.ncdc.noaa.gov/paleo/study/12279
+15,72,BA-2,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Gina Moseley",https://www.ncdc.noaa.gov/paleo/study/12279
+16,73,Han-stm1,current,NULL,"from base",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,yes,no,no,"Inga Labuhn",NULL
+16,74,Han-stm5b,current,NULL,"from top",50,100,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,yes,no,no,"Inga Labuhn",NULL
+16,75,Han-9,current,NULL,"from top",40,1000,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Stef Vansteenberge",https://www.ncdc.noaa.gov/paleo/study/20345
+17,76,HY1,current,NULL,"from top",NULL,600,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/11177
+17,77,HY2,current,NULL,"from top",NULL,800,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/11177
+17,78,HY3,current,NULL,"from top",NULL,1000,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/11177
+18,79,Abissal,current,NULL,"from top",NULL,NULL,stalagmite,"seepage flow",unknown,yes,yes,no,no,no,no,no,no,no,no,no,"Giselle Utida",NULL
+18,80,Ale-1,current,NULL,"from top",NULL,NULL,stalagmite,"seepage flow",unknown,yes,yes,no,no,no,no,no,no,no,no,no,"Giselle Utida",NULL
+19,81,Kanaan_MIS5,current,NULL,"from top",50,25,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Carole Nehme",NULL
+19,82,Kanaan_MIS6,current,NULL,"from top",50,25,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Carole Nehme",NULL
+20,83,SC02,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,no,no,no,no,no,no,no,no,no,no,"Sakonvan Chawchai",NULL
+20,84,SC03,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,no,no,no,no,no,no,no,no,no,no,"Sakonvan Chawchai",NULL
+21,85,SU967,current,NULL,"from top",10,20,stalagmite,"seepage flow",yes,yes,yes,yes,yes,no,yes,no,no,yes,no,yes,"Andy Baker",https://www.ncdc.noaa.gov/paleo/study/10072
+21,86,SU032,current,NULL,"from top",10,20,stalagmite,"seepage flow",yes,yes,yes,yes,no,no,yes,no,no,yes,no,yes,"Andy Baker",NULL
+22,87,Merc-1,current,NULL,"from top",25,10,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,yes,no,no,"Andy Baker",NULL
+22,88,Asfa-3,current,NULL,"from top",30,15,stalagmite,unknown,yes,yes,unknown,no,yes,no,yes,no,yes,yes,no,no,"Andy Baker",NULL
+23,89,LG11,current,NULL,"from top",NULL,700,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Nicolás M. Stríkis",NULL
+23,90,LG3,current,NULL,"from top",NULL,700,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Nicolás M. Stríkis",NULL
+24,91,LSF16,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Nicolás M. Stríkis",NULL
+24,92,LSF3_2015,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Nicolás M. Stríkis",NULL
+25,93,PAL3,current,NULL,"from top",80,600,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"James Apaéstegui",https://www.ncdc.noaa.gov/paleo/study/19301
+25,94,PAL4,current,NULL,"from top",80,700,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"James Apaéstegui",https://www.ncdc.noaa.gov/paleo/study/19301
+26,95,FM3,current,NULL,"from top",30,200,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker",NULL
+26,96,Oks82,current,NULL,"from top",20,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker",NULL
+27,97,TM0,current,NULL,"from top",30,250,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,yes,"Barbara Wortham",https://www.ncdc.noaa.gov/paleo/study/21550
+27,98,TM2,current,NULL,"from top",30,500,stalagmite,unknown,yes,yes,unknown,no,no,no,unknown,no,no,no,no,no,"Corinne Wong",NULL
+28,99,VSPM1,current,NULL,"from top",NULL,1,stalagmite,"seasonal drip",yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Syed Masood Ahmad",NULL
+28,100,VSPM4,current,NULL,"from top",NULL,1,stalagmite,"seasonal drip",yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Syed Masood Ahmad",NULL
+29,101,MC-S1,current,NULL,"from top",17,100,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,yes,"Andy Baker",https://www.ncdc.noaa.gov/paleo/study/22074
+29,102,MC-S2,current,NULL,"from top",17,37,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,yes,"Andy Baker","https://www.ncdc.noaa.gov/paleo/study/22074 "
+30,103,LII4,superseded,104,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,yes,no,no,"Kerstin Braun",NULL
+30,104,LII4-KH,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,yes,no,no,"Kerstin Braun",NULL
+31,105,ABA_1,current,NULL,"from top",40,500,flowstone,"seepage flow",yes,yes,unknown,no,no,yes,yes,no,no,no,no,no,"Gabriella Koltai",NULL
+31,106,ABA_2,current,NULL,"from top",40,500,flowstone,"seepage flow",yes,yes,unknown,no,no,yes,yes,no,no,no,no,no,"Gabriella Koltai",NULL
+32,107,MAJ-5,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,no,no,no,no,yes,no,no,no,no,no,"Nick Scroxton",https://www.ncdc.noaa.gov/paleo/study/22970
+33,108,Bero-1,current,NULL,"from top",NULL,0.1,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,yes,no,no,"Andy Baker",NULL
+34,109,CBD-2,current,NULL,"from top",NULL,15,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Matthew Lachniet",https://www.ncdc.noaa.gov/paleo/study/10670
+35,110,CUR4,current,NULL,"from top",NULL,500,stalagmite,"seasonal drip",no,yes,yes,no,no,no,yes,no,no,no,no,no,"Valdir Felipe Novello",https://www.ncdc.noaa.gov/paleo/study/20043
+36,111,DY-1,current,NULL,"from top",80,1000,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/8628
+37,112,DSSG-4,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Matthew Lachniet",NULL
+38,113,DV2,current,NULL,"from top",NULL,500,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Valdir Felipe Novello",https://www.ncdc.noaa.gov/paleo/study/13670
+39,114,D3,current,NULL,"from top",100,300,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/5427
+39,115,D4_2004,current,NULL,"from top",100,500,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/5427
+40,116,GEX-SPA,current,NULL,"from top",5,15,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,yes,no,no,"Cristina Veiga-Pires",10.1594/PANGAEA.884250
+41,117,FG01,current,NULL,"from top",NULL,700,stalagmite,"seepage flow",yes,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,yes,"Zoltán Kern",NULL
+42,118,IFK1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,no,yes,no,no,yes,no,no,no,no,no,"Yassine Ait Brahim",NULL
+43,119,"KL 3",current,NULL,"from top",50,1.8,stalagmite,unknown,yes,yes,no,no,no,no,yes,no,no,no,no,no,"Syed Masood Ahmad",NULL
+44,120,GK-09-02,current,NULL,"from top",30,90,stalagmite,"seasonal drip",yes,yes,yes,unknown,unknown,unknown,yes,unknown,unknown,yes,unknown,unknown,"Martin Finné",NULL
+45,121,BW-1,current,NULL,"from top",120,40,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Wuhui Duan",NULL
+46,122,L4,current,NULL,"from top",15,400,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Inga Labuhn",NULL
+47,123,L03,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,yes,no,"Andy Baker",NULL
+48,124,LC-1,current,NULL,"from top",NULL,100,stalagmite,unknown,yes,yes,no,no,no,yes,no,no,no,no,no,no,"Matthew Lachniet",NULL
+49,125,ML1,current,NULL,"from top",10,20,stalagmite,unknown,yes,yes,no,yes,unknown,unknown,yes,no,unknown,unknown,unknown,yes,"István G. Hatvani",https://www.ncdc.noaa.gov/paleo/study/22058
+50,126,MC3,current,NULL,"from top",15,30,stalagmite,"seasonal drip",yes,yes,yes,yes,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,"István G. Hatvani",https://www.ncdc.noaa.gov/paleo/study/22058
+51,127,NBJ,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,yes,no,no,no,no,no,no,no,yes,"Corinne Wong",https://www.ncdc.noaa.gov/paleo/study/19460
+52,128,ALHO6,current,NULL,"from top",NULL,800,stalagmite,"seasonal drip",yes,yes,yes,no,no,no,no,no,no,no,no,no,"Valdir Felipe Novello",https://www.ncdc.noaa.gov/paleo/study/20043
+53,129,YD01,current,NULL,"from base",30,275,stalagmite,"seepage flow",yes,yes,yes,yes,no,yes,yes,no,no,yes,yes,yes,"Philip Hopley",https://www.bodc.ac.uk/projects/data_management/uk/rapid/data_inventories/palaeo_sampling/isomap-uk/
+54,130,SAH-A,current,NULL,"from top",30,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Nikita Kaushal",NULL
+54,131,SAH-B,current,NULL,"from top",30,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Nikita Kaushal",NULL
+54,132,SAH-AB,current,NULL,"from top",30,NULL,composite,"not applicable",yes,yes,yes,no,no,no,no,no,no,no,no,no,"Nikita Kaushal",NULL
+55,133,7H,current,NULL,"from top",215,NULL,composite,"not applicable",unknown,yes,unknown,unknown,no,no,yes,no,no,no,no,no,"Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/18115
+55,134,7H-2,current,NULL,"from top",215,NULL,stalagmite,unknown,unknown,yes,unknown,unknown,no,no,yes,no,no,no,no,no,"Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/18115
+55,135,7H-3,current,NULL,"from top",215,NULL,stalagmite,unknown,unknown,yes,unknown,unknown,no,no,yes,no,no,no,no,no,"Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/18115
+56,136,MAR_L,current,NULL,"from top",18,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,no,unknown,no,unknown,unknown,"David Psomiadis",NULL
+57,137,SG95,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,yes,no,"Andy Baker",NULL
+58,138,SPA12,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Jens Fohlmeister",NULL
+58,139,SPA70,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Jens Fohlmeister",NULL
+58,140,SPA128,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Jens Fohlmeister",NULL
+58,141,SPA127,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Jens Fohlmeister",NULL
+58,142,"COMNISPA II",current,NULL,"from top",NULL,NULL,composite,"not applicable",no,yes,no,no,no,no,no,no,no,no,no,no,"Jens Fohlmeister",NULL
+59,143,SZ2,current,NULL,"from top",NULL,100,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/6211
+60,144,Taurius,current,NULL,"from top",30,100,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Nikita Kaushal",https://www.ncdc.noaa.gov/paleo/study/14988
+61,145,T1,current,NULL,"from top",NULL,50,stalagmite,unknown,no,yes,no,no,no,no,no,no,no,no,no,no,"Nikita Kaushal",https://www.ncdc.noaa.gov/paleo/study/11712
+62,146,TR5,current,NULL,"from top",NULL,800,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Valdir Felipe Novello",NULL
+63,147,Chaac,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Monica Arienzo",https://www.ncdc.noaa.gov/paleo/study/9791
+64,148,WS-B,current,NULL,"from top",NULL,1000,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Nikita Kaushal",https://www.ncdc.noaa.gov/paleo/study/11937
+65,149,WR5,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Sakonvan Chawchai",https://www.ncdc.noaa.gov/paleo/study/13217
+66,150,WSC-97-10-5,current,NULL,"from base",50,800,stalagmite,"seepage flow",yes,yes,yes,yes,no,no,yes,no,no,no,yes,yes,"Philip Hopley",https://www.bodc.ac.uk/projects/data_management/uk/rapid/data_inventories/palaeo_sampling/isomap-uk/
+67,151,Squeeze1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Sakonvan Chawchai",https://www.ncdc.noaa.gov/paleo/study/13217
+68,152,AF12,current,NULL,"from top",10,NULL,stalagmite,"seepage flow",yes,yes,unknown,unknown,unknown,unknown,unknown,no,no,yes,unknown,unknown,"Yuval Burstyn",https://www.ncdc.noaa.gov/paleo/study/8638
+69,153,XL-1,current,NULL,"from top",200,35,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Wuhui Duan",NULL
+58,154,SPA133,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,no,no,no,no,no,no,no,no,no,no,"Jens Fohlmeister",https://www.ncdc.noaa.gov/paleo/study/14510
+70,155,AB-DC-01,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Monica Arienzo","https://www.ncdc.noaa.gov/paleo/study/21490 "
+70,156,AB-DC-03,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Monica Arienzo","https://www.ncdc.noaa.gov/paleo/study/21490 "
+70,157,AB-DC-12,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Monica Arienzo","https://www.ncdc.noaa.gov/paleo/study/21490 "
+70,158,AB-DC-09,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,yes,no,no,no,no,no,yes,"Laia Comas Bru",https://www.ncdc.noaa.gov/paleo/study/20085
+71,159,BAR-II#L,current,NULL,"from top",150,1000,stalagmite,unknown,yes,yes,unknown,no,no,yes,yes,no,no,no,no,no,"István G. Hatvani","https://ars.els-cdn.com/content/image/1-s2.0-S027737911630720X-mmc1.xls "
+71,160,BAR-II#B,current,NULL,"from top",150,1000,stalagmite,unknown,yes,yes,unknown,no,no,yes,yes,no,no,no,no,no,"István G. Hatvani","https://ars.els-cdn.com/content/image/1-s2.0-S027737911630720X-mmc1.xls "
+72,161,POM2,current,NULL,"from top",100,220,stalagmite,"seepage flow",yes,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"István G. Hatvani",NULL
+73,162,BDinf,current,NULL,"from base",10,20,stalagmite,mixture,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Isabelle Couchoud",NULL
+74,163,V3,current,NULL,"from top",NULL,1100,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+75,164,CWN4,current,NULL,"from top",20,24,stalagmite,unknown,yes,yes,no,no,no,yes,no,no,no,no,no,no,"Corinne Wong",NULL
+76,165,CC-1,current,NULL,"from top",140,160,stalagmite,unknown,yes,yes,yes,unknown,unknown,unknown,yes,unknown,unknown,yes,unknown,unknown,"Zoltán Kern",NULL
+77,166,Chau-stm6,current,NULL,"from base",NULL,NULL,stalagmite,unknown,yes,yes,yes,yes,no,no,no,no,no,no,no,no,"Inga Labuhn",NULL
+78,167,CHIL-1,current,NULL,"from base",20,75,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,unknown,no,no,no,"Matthew Lachniet ",https://www.ncdc.noaa.gov/paleo/study/5430
+79,168,Dim-E2,current,NULL,"from top",15,250,stalagmite,mixture,yes,yes,yes,yes,unknown,unknown,yes,unknown,unknown,no,unknown,unknown,"István G. Hatvani","https://static-content.springer.com/esm/art%3A10.1038%2Fsrep13560/MediaObjects/41598_2015_BFsrep13560_MOESM1_ESM.pdf "
+79,169,Dim-E3,current,NULL,"from top",15,250,stalagmite,mixture,yes,yes,yes,yes,unknown,unknown,yes,unknown,unknown,no,unknown,unknown,"Zoltán Kern","https://static-content.springer.com/esm/art%3A10.1038%2Fsrep13560/MediaObjects/41598_2015_BFsrep13560_MOESM1_ESM.pdf "
+79,170,Dim-E4,current,NULL,"from top",15,250,stalagmite,mixture,yes,yes,yes,yes,unknown,unknown,yes,unknown,unknown,no,unknown,unknown,"Zoltán Kern","https://static-content.springer.com/esm/art%3A10.1038%2Fsrep13560/MediaObjects/41598_2015_BFsrep13560_MOESM1_ESM.pdf "
+80,171,FR-5,current,NULL,"from top",300,1000,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Ting Yong Li",NULL
+80,172,FR-0510,current,NULL,"from top",300,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,yes,no,no,"Ting Yong Li",NULL
+81,173,stm2,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+81,174,stm4,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+82,175,HW-3,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+83,176,Min-stm1,current,NULL,"from base",50,300,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+84,177,Leany,current,NULL,"from top",100,50,stalagmite,"seasonal drip",yes,yes,unknown,no,no,yes,no,no,no,no,no,no,"Attila Demény","https://ars.els-cdn.com/content/image/1-s2.0-S1040618212003709-mmc3.xls  "
+85,178,MC01,current,NULL,"from top",NULL,8,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,yes,unknown,unknown,unknown,unknown,unknown,"Monica Arienzo",https://www.ncdc.noaa.gov/paleo/study/20506
+86,179,MOD-22,current,NULL,"from top",22,150,stalagmite,"seasonal drip",yes,yes,yes,unknown,unknown,unknown,yes,unknown,unknown,yes,unknown,unknown,"Zoltán Kern",NULL
+87,180,Candela,current,NULL,"from top",40,400,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,yes,no,yes,"Ana Moreno",NULL
+88,181,POS-STM-4,current,NULL,"from top",30,200,stalagmite,"seepage flow",yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,yes,unknown,unknown,"István G. Hatvani",NULL
+89,182,Gib04a,current,NULL,"from top",100,NULL,stalagmite,"seepage flow",yes,yes,unknown,yes,unknown,unknown,yes,unknown,unknown,yes,unknown,unknown,"Zoltán Kern",NULL
+90,183,Trio,current,NULL,"from top",20,30,stalagmite,unknown,yes,yes,yes,yes,no,yes,yes,no,no,no,no,yes,"Attila Demény",https://www.ncdc.noaa.gov/paleo/study/11817
+91,184,PU-2,current,NULL,"from base",100,100,stalagmite,unknown,yes,yes,yes,unknown,unknown,unknown,yes,no,unknown,no,unknown,unknown,"István G. Hatvani",NULL
+92,185,Keklik1,current,NULL,"from top",40,35,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,yes,no,no,"Jens Fohlmeister",NULL
+93,186,GC08,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Sakonvan Chawchai",https://www.ncdc.noaa.gov/paleo/study/13217
+94,187,AB3,current,NULL,"from top",100,1000,stalagmite,"seasonal drip",yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Nick Scroxton",NULL
+94,188,AB2,current,NULL,"from top",100,1000,stalagmite,"seasonal drip",yes,yes,unknown,yes,no,no,yes,no,no,no,no,yes,"Nick Scroxton",https://www.ncdc.noaa.gov/paleo/study/21850
+94,189,MA3,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,no,no,no,no,yes,no,no,no,no,no,"Nick Scroxton",https://www.ncdc.noaa.gov/paleo/study/22910
+94,190,ANJB-2,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,no,no,no,no,yes,no,no,no,no,no,"Nick Scroxton",https://www.ncdc.noaa.gov/paleo/study/22970
+95,191,BC01-07,current,NULL,"from top",NULL,15,stalagmite,unknown,yes,yes,unknown,no,no,no,unknown,no,no,no,no,unknown,"Matthew Lachniet",https://www.ncdc.noaa.gov/paleo/study/20612
+96,192,Boss,current,NULL,"from top",10,300,stalagmite,unknown,yes,yes,yes,unknown,unknown,unknown,yes,no,no,yes,no,no,"Franziska Lechleitner",NULL
+96,193,BFM-9,current,NULL,"from top",10,300,stalagmite,unknown,yes,yes,yes,unknown,unknown,unknown,yes,no,no,yes,no,no,"Franziska Lechleitner",NULL
+96,194,F2,current,NULL,"from base",10,300,stalagmite,unknown,yes,yes,yes,unknown,unknown,unknown,yes,no,no,yes,no,no,"Franziska Lechleitner",NULL
+97,195,BMS1,current,NULL,"from top",100,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Franziska Lechleitner, Andrea Columbu",NULL
+98,196,CC3,current,NULL,"from top",20,250,stalagmite,unknown,yes,yes,yes,yes,no,no,yes,no,no,no,no,yes,"Frank McDermott",NULL
+99,197,DP1_2013,current,NULL,"from top",NULL,100,stalagmite,unknown,yes,yes,no,no,no,no,yes,no,no,no,no,no,"Nick Scroxton",https://www.ncdc.noaa.gov/paleo/study/14268
+99,198,DP1_2016,"current partially modified",197,"from top",NULL,100,stalagmite,unknown,yes,yes,no,no,no,no,yes,no,no,no,no,no,"Nick Scroxton",https://www.ncdc.noaa.gov/paleo/study/20433
+100,199,K1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,unknown,unknown,unknown,yes,unknown,unknown,unknown,unknown,unknown,"Vasile Ersek, Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/8642
+100,200,K3,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,unknown,unknown,unknown,yes,unknown,unknown,unknown,unknown,unknown,"Vasile Ersek, Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/8642
+101,201,PFU6,current,NULL,"from top",NULL,NULL,flowstone,unknown,yes,yes,no,yes,no,no,yes,no,no,no,no,no,"Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/12841
+102,202,K11,current,NULL,"from top",14,200,stalagmite,unknown,yes,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/9745
+103,203,LD12,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Valdir Felipe Novello",NULL
+104,204,LR06-B1_2009,superseded,226,"from top",40,800,stalagmite,unknown,no,yes,yes,yes,no,yes,yes,no,no,no,no,yes,"Nick Scroxton",NULL
+104,205,LR06-B3_2009,superseded,367,"from top",40,800,stalagmite,unknown,no,yes,yes,yes,no,yes,yes,no,no,no,no,yes,"Nick Scroxton",NULL
+105,206,SCH-5,current,NULL,"from top",NULL,400,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/19219
+105,207,SCH-7,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Gina Moseley",https://www.ncdc.noaa.gov/paleo/study/12279
+106,208,SE09-6,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,yes,"Carlos Pérez-Mejías",NULL
+107,209,YOKI,current,NULL,"from top",14,50,stalagmite,"seepage flow",yes,yes,no,yes,yes,no,yes,no,no,yes,no,yes,"Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/13519
+107,210,YOKG,current,NULL,"from top",14,50,stalagmite,"seepage flow",yes,yes,no,yes,yes,no,yes,no,no,yes,no,yes,"Franziska Lechleitner",NULL
+108,211,Cla4,current,NULL,"from top",NULL,500,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Inga Labuhn",NULL
+108,212,CL26,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,yes,no,no,no,no,no,no,no,yes,"Frank McDermott",NULL
+104,213,LR07-E1,current,NULL,"from top",NULL,1200,stalagmite,unknown,no,yes,yes,yes,no,no,no,no,no,no,no,no,"Nick Scroxton",NULL
+104,214,LR06-C3_2011,superseded,369,"from top",NULL,900,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Nick Scroxton",NULL
+104,215,LR07-E1-D,"current partially modified",213,"from top",NULL,1200,stalagmite,unknown,no,yes,yes,yes,no,no,no,no,no,no,no,no,"Nick Scroxton",NULL
+109,216,MO-1,current,NULL,"from top",20,200,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Ana Moreno",NULL
+109,217,MO-7,current,NULL,"from top",20,300,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Ana Moreno",NULL
+110,218,ME-12,current,NULL,"from top",20,NULL,stalagmite,"seepage flow",yes,yes,unknown,no,no,unknown,unknown,unknown,no,unknown,unknown,unknown,"Yuval Burstyn",https://www.ncdc.noaa.gov/paleo/study/5422
+111,219,RN1,current,NULL,"from top",NULL,NULL,stalagmite,"seepage flow",unknown,yes,yes,no,no,no,no,no,no,no,no,no,"Giselle Utida",NULL
+111,220,RN4,current,NULL,"from top",NULL,NULL,stalagmite,"seepage flow",unknown,yes,yes,no,no,no,no,no,no,no,no,no,"Giselle Utida",NULL
+112,221,XY-2,current,NULL,"from top",50,300,stalagmite,unknown,no,yes,no,no,no,no,yes,no,no,no,no,no,"Ting Yong Li",NULL
+112,222,XY07-8,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,no,no,no,no,yes,no,no,yes,no,no,"Ting Yong Li",NULL
+104,223,LR07-A8,current,NULL,"from top",30,600,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Nick Scroxton",NULL
+104,224,LR07-A9,current,NULL,"from top",30,600,stalagmite,unknown,yes,yes,unknown,no,no,yes,no,no,no,no,no,no,"Nick Scroxton",NULL
+104,225,LR07-E11,current,NULL,"from top",50,1000,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Nick Scroxton",NULL
+104,226,LR06-B1_2016,current,NULL,"from top",40,800,stalagmite,unknown,yes,yes,yes,yes,no,yes,yes,no,no,no,no,yes,"Nick Scroxton",https://www.ncdc.noaa.gov/paleo/study/20285
+104,227,LR06-B3_2016,"current partially modified",367,"from top",40,800,stalagmite,unknown,yes,yes,yes,yes,no,yes,yes,no,no,no,no,yes,"Nick Scroxton",https://www.ncdc.noaa.gov/paleo/study/20285
+113,228,PX7_2015,superseded,612,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Natasha Sekhon",10.1594/PANGAEA.847283
+114,229,Ach-1,current,NULL,"from top",30,200,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,no,"Andy Baker",NULL
+115,230,HOL-7,current,NULL,"from top",NULL,850,stalagmite,unknown,yes,yes,unknown,yes,no,yes,no,no,no,no,no,unknown,"Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/18155
+115,231,HOL-16,current,NULL,"from top",NULL,850,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/18155
+115,232,HOL-17,current,NULL,"from top",NULL,850,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/18155
+115,233,HOL-18,current,NULL,"from top",NULL,850,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,unknown,"Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/18155
+115,234,HOL-16-17,current,NULL,"from top",NULL,850,composite,"not applicable",yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/18155
+115,235,HOL-comp,current,NULL,"from top",NULL,850,composite,"not applicable",yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/18155
+115,236,HOL-10,current,NULL,"from top",NULL,850,stalagmite,unknown,yes,yes,unknown,unknown,no,no,unknown,no,no,unknown,no,unknown,"Gina Moseley",https://www.ncdc.noaa.gov/paleo/study/19219
+116,237,BA04,current,NULL,"from top",NULL,500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/5538
+116,238,BA03_decadal,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/19885
+116,239,BA02,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/14515
+117,240,Bu1,current,NULL,"from top",15,NULL,stalagmite,"seasonal drip",yes,yes,no,yes,no,yes,yes,yes,yes,yes,no,yes,"Denis Scholz",https://www.ncdc.noaa.gov/paleo/study/20589
+117,241,Bu2_2012,current,NULL,"from top",30,NULL,stalagmite,"seasonal drip",yes,yes,no,yes,no,no,yes,yes,no,no,no,yes,"Denis Scholz",https://www.ncdc.noaa.gov/paleo/study/20589
+117,242,Bu4,current,NULL,"from top",30,NULL,stalagmite,mixture,yes,yes,no,yes,no,yes,yes,yes,yes,yes,no,yes,"Denis Scholz",https://www.ncdc.noaa.gov/paleo/study/20589
+117,243,Bu6,current,NULL,"from top",15,NULL,flowstone,"seasonal drip",yes,yes,no,yes,no,no,yes,no,yes,no,no,yes,"Denis Scholz",https://www.ncdc.noaa.gov/paleo/study/20589
+117,244,BuStack,current,NULL,"from top",NULL,NULL,composite,"not applicable",no,yes,no,yes,no,unknown,yes,unknown,unknown,unknown,no,yes,"Denis Scholz",NULL
+118,245,FC12-12,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Nick Scroxton",NULL
+118,246,FC12-14,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Nick Scroxton",NULL
+118,247,FC12-15,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Nick Scroxton",NULL
+119,248,ASR,current,NULL,"from top",40,NULL,stalagmite,unknown,unknown,yes,no,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/20082
+119,249,ASM,current,NULL,"from top",40,NULL,stalagmite,unknown,unknown,yes,no,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/20082
+120,250,HOR,current,NULL,"from base",10,40,stalagmite,"seasonal drip",yes,yes,unknown,yes,no,no,yes,no,no,no,no,yes,"Carlos Pérez-Mejías",NULL
+120,251,ARTEMISA,current,NULL,"from base",10,48,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,yes,"Carlos Pérez-Mejías",NULL
+121,252,TKS,current,NULL,"from top",NULL,NULL,flowstone,unknown,no,yes,unknown,unknown,unknown,unknown,yes,unknown,unknown,no,unknown,unknown,"Carlos Pérez-Mejías",NULL
+122,253,HS4_2008,current,NULL,"from top",400,150,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Nikita Kaushal",https://www.ncdc.noaa.gov/paleo/study/6095
+122,254,HS4_2013,"current partially modified",253,"from top",400,150,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Nikita Kaushal",https://www.ncdc.noaa.gov/paleo/study/14312
+123,255,MB-2,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Franziska Lechleitner, Marc Luetscher",https://www.ncdc.noaa.gov/paleo/study/13868
+123,256,MB-3,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Franziska Lechleitner, Marc Luetscher",https://www.ncdc.noaa.gov/paleo/study/13868
+123,257,MB-5,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,yes,no,yes,no,no,no,no,no,"Franziska Lechleitner, Marc Luetscher",https://www.ncdc.noaa.gov/paleo/study/13868
+123,258,MB-6,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,no,"Franziska Lechleitner, Marc Luetscher",https://www.ncdc.noaa.gov/paleo/study/13868
+124,259,PC-1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Matthew Lachniet",NULL
+125,260,MF-3,current,NULL,"from top",20,NULL,stalagmite,unknown,yes,yes,unknown,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/19744
+58,261,SPA121,current,NULL,"from top",20,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,yes,unknown,unknown,unknown,unknown,unknown,"Carlos Pérez-Mejías",https://www.ncdc.noaa.gov/paleo/study/6212
+126,262,TC1,current,NULL,"from top",NULL,12.1,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,yes,no,no,"Syed Masood Ahmad",NULL
+127,263,XBL-3,current,NULL,"from base",NULL,350,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",http://www.pnas.org/content/suppl/2015/02/18/1424035112.DCSupplemental/pnas.1424035112.sapp.pdf
+127,264,XBL-4,current,NULL,"from base",NULL,350,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",http://www.pnas.org/content/suppl/2015/02/18/1424035112.DCSupplemental/pnas.1424035112.sapp.pdf
+127,265,XBL-7,current,NULL,"from base",NULL,350,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",http://www.pnas.org/content/suppl/2015/02/18/1424035112.DCSupplemental/pnas.1424035112.sapp.pdf
+127,266,XBL-26,current,NULL,"from base",NULL,350,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",http://www.pnas.org/content/suppl/2015/02/18/1424035112.DCSupplemental/pnas.1424035112.sapp.pdf
+127,267,XBL-27,current,NULL,"from base",NULL,350,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",http://www.pnas.org/content/suppl/2015/02/18/1424035112.DCSupplemental/pnas.1424035112.sapp.pdf
+127,268,XBL-29,current,NULL,"from base",NULL,350,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",http://www.pnas.org/content/suppl/2015/02/18/1424035112.DCSupplemental/pnas.1424035112.sapp.pdf
+127,269,XBL-48,current,NULL,"from base",NULL,350,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",http://www.pnas.org/content/suppl/2015/02/18/1424035112.DCSupplemental/pnas.1424035112.sapp.pdf
+127,270,XBL-65,current,NULL,"from base",NULL,350,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",http://www.pnas.org/content/suppl/2015/02/18/1424035112.DCSupplemental/pnas.1424035112.sapp.pdf
+128,271,BCC-2,current,NULL,"from top",35,1000,stalagmite,unknown,unknown,yes,unknown,unknown,unknown,unknown,unknown,unknown,no,no,unknown,unknown,"Kira Rehfeld","https://www.ncdc.noaa.gov/paleo/study/9741 "
+128,272,BCC-4,current,NULL,"from top",35,1000,stalagmite,unknown,unknown,yes,unknown,unknown,unknown,unknown,unknown,unknown,no,no,unknown,unknown,"Kira Rehfeld","https://www.ncdc.noaa.gov/paleo/study/9741 "
+128,273,BCC-6,current,NULL,"from top",35,1000,stalagmite,unknown,unknown,yes,unknown,unknown,unknown,unknown,unknown,unknown,no,no,unknown,unknown,"Kira Rehfeld","https://www.ncdc.noaa.gov/paleo/study/9741 "
+128,274,BCC-8,current,NULL,"from top",35,1000,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,no,no,no,unknown,"Kira Rehfeld",NULL
+128,275,BCC-10_2014,superseded,682,"from top",35,1000,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,no,no,no,unknown,"Kira Rehfeld",NULL
+128,276,BCC_composite,current,NULL,"from top",35,1000,composite,"not applicable",unknown,yes,unknown,unknown,unknown,unknown,unknown,unknown,no,no,no,unknown,"Kira Rehfeld",NULL
+129,277,CR1,current,NULL,"from top",4,250,stalagmite,"seepage flow",yes,yes,no,no,no,no,yes,no,no,no,no,no,"Andrea Borsato",NULL
+130,278,DAN-D,current,NULL,"from top",NULL,220,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Nikita Kaushal",https://www.ncdc.noaa.gov/paleo/study/8639
+131,279,ER76,current,NULL,"from top",20,NULL,stalagmite,"seepage flow",yes,yes,no,no,no,no,yes,no,no,yes,no,no,"Denis Scholz, Franziska Lechleitner",NULL
+132,280,SPA_126,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Carlos Pérez-Mejías",https://www.ncdc.noaa.gov/paleo/study/5436
+132,281,SPA_49,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,yes,"Carlos Pérez-Mejías",https://www.ncdc.noaa.gov/paleo/study/5436
+133,282,RL4_2006,superseded,381,"from top",42,100,flowstone,unknown,yes,yes,unknown,unknown,yes,unknown,unknown,no,unknown,unknown,unknown,yes,"Duncan Keenan-Jones",NULL
+133,283,RL4_2016,superseded,381,"from top",42,100,flowstone,unknown,yes,yes,unknown,unknown,yes,unknown,unknown,no,unknown,unknown,unknown,yes,"Duncan Keenan-Jones",NULL
+134,284,COB-01-02,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,no,no,no,yes,no,no,no,no,no,"Yassine Ait Brahim",NULL
+116,285,BA03_highres,"current partially modified",238,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/19885
+136,286,JX-6,current,NULL,"from top",160,800,stalagmite,"seasonal drip",yes,yes,unknown,yes,no,no,yes,no,no,no,no,no,"Laia Comas Bru","https://www.ncdc.noaa.gov/paleo/study/12972 "
+136,287,JX-2,current,NULL,"from top",150,750,stalagmite,"seasonal drip",yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Laia Comas Bru",https://www.ncdc.noaa.gov/paleo/study/14350
+136,288,JX-10,current,NULL,"from top",150,750,stalagmite,"seasonal drip",no,yes,unknown,no,no,no,yes,no,no,no,no,no,"Laia Comas Bru",https://www.ncdc.noaa.gov/paleo/study/14350
+136,289,JX-7,current,NULL,"from top",160,800,stalagmite,"seasonal drip",no,yes,unknown,no,no,no,yes,no,no,no,no,no,"Laia Comas Bru","https://www.ncdc.noaa.gov/paleo/study/21019 "
+137,290,KC-1,current,NULL,"from top",125,NULL,stalagmite,unknown,yes,yes,yes,yes,no,no,no,no,no,no,no,yes,"Matthew Lachniet",https://www.ncdc.noaa.gov/paleo/study/21610
+137,291,KC-3,current,NULL,"from top",125,NULL,stalagmite,unknown,yes,yes,yes,yes,no,no,no,no,no,no,no,yes,"Matthew Lachniet",https://www.ncdc.noaa.gov/paleo/study/21610
+137,292,KC-Composite,current,NULL,"from top",125,NULL,composite,"not applicable",yes,yes,yes,yes,no,no,no,no,no,no,no,yes,"Matthew Lachniet",https://www.ncdc.noaa.gov/paleo/study/21610
+138,293,M1-5,current,NULL,"from top",NULL,1000,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Jennifer B. Wurtzel",NULL
+139,294,OCNM02-1,current,NULL,"from top",60,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Vasile Ersek","https://www.ncdc.noaa.gov/paleo/study/13543 "
+140,295,SB-10_2009,current,NULL,"from top",150,1000,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/10445
+140,296,SB-26_2009,current,NULL,"from top",150,1000,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/10446
+140,297,SB-27,current,NULL,"from top",150,1000,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/10447
+140,298,SB-43,current,NULL,"from top",150,1000,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/10448
+140,299,SB-44,current,NULL,"from top",150,1000,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/10449
+140,300,SB-49,current,NULL,"from top",150,1000,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/10450
+140,301,SB-12,current,NULL,"from top",NULL,1500,stalagmite,unknown,no,yes,unknown,yes,no,no,yes,no,unknown,no,no,no,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/20450
+140,302,SB-14,current,NULL,"from top",NULL,1500,stalagmite,unknown,no,yes,unknown,yes,no,no,yes,no,unknown,no,no,no,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/20450
+140,303,SB-32,current,NULL,"from top",NULL,1500,stalagmite,unknown,no,yes,unknown,yes,no,no,yes,no,unknown,no,no,no,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/20450
+140,304,SB-58,current,NULL,"from top",NULL,1500,stalagmite,unknown,no,yes,unknown,yes,no,no,yes,no,unknown,no,no,no,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/20450
+141,305,SO-1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Laia Comas Bru",https://www.ncdc.noaa.gov/paleo/study/8637
+142,306,TM-2,current,NULL,"from top",NULL,150,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/9737
+142,307,TM-5,current,NULL,"from top",NULL,150,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/9737
+142,308,TM-18a,current,NULL,"from top",NULL,200,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/13625
+142,309,TM-18b,current,NULL,"from top",NULL,200,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",https://www.ncdc.noaa.gov/paleo/study/13625
+143,310,ESP03,current,NULL,"from top",5,50,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,yes,unknown,unknown,no,unknown,unknown,"Carlos Pérez-Mejías",NULL
+144,311,BTV21a,current,NULL,"from top",NULL,300,stalagmite,unknown,yes,yes,yes,yes,no,yes,no,no,no,no,no,yes,"Francisco da Cruz",NULL
+144,312,BT-2,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,no,yes,no,yes,no,no,no,no,no,yes,"Nicolás M. Stríkis",NULL
+145,313,CC-1_2004,superseded,665,"from top",400,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,yes,unknown,unknown,unknown,unknown,unknown,"Carlos Pérez-Mejías",NULL
+145,314,CC-5_2005,superseded,666,"from top",400,NULL,stalagmite,unknown,yes,yes,unknown,yes,unknown,unknown,yes,unknown,unknown,unknown,unknown,yes,"Carlos Pérez-Mejías",NULL
+145,315,CC-28_2007,superseded,668,"from top",400,500,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,yes,unknown,unknown,unknown,unknown,unknown,"Carlos Pérez-Mejías",NULL
+145,316,CC-1_2009,superseded,665,"from top",400,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,yes,unknown,unknown,unknown,unknown,unknown,"Carlos Pérez-Mejías",NULL
+145,317,CC-5_2009,superseded,666,"from top",400,NULL,stalagmite,unknown,yes,yes,unknown,yes,unknown,unknown,yes,unknown,unknown,unknown,unknown,yes,"Carlos Pérez-Mejías",NULL
+145,318,CC-7_2009,superseded,667,"from top",400,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,yes,unknown,unknown,unknown,unknown,unknown,"Carlos Pérez-Mejías",NULL
+146,319,SSC01,current,NULL,"from top",NULL,250,stalagmite,unknown,no,yes,no,no,no,no,no,no,no,no,no,no,"Sakonvan Chawchai",ftp://ftp.ncdc.noaa.gov/pub/data/paleo/syntrace/speleothem/cave-gunungbuda-ssc01.txt
+146,320,SCH02,current,NULL,"from top",NULL,250,stalagmite,unknown,no,yes,no,no,no,no,no,no,no,no,no,no,"Sakonvan Chawchai",ftp://ftp.ncdc.noaa.gov/pub/data/paleo/syntrace/speleothem/cave-gunungbuda-sch02.txt
+147,321,FS2_2012,"current partially modified",322,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Laia Comas Bru",https://www.ncdc.noaa.gov/paleo/study/14748
+147,322,FS2_2010,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Laia Comas Bru",https://www.ncdc.noaa.gov/paleo/study/9643
+148,323,"Buffalo Cave Flowstone",current,NULL,"from top",10,NULL,flowstone,unknown,yes,yes,unknown,yes,yes,no,yes,no,no,no,yes,yes,"Philip Hopley",NULL
+39,324,D8,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,no,"Hai Cheng",https://www.ncdc.noaa.gov/paleo/study/20450
+150,325,ED1,current,NULL,"from top",200,500,flowstone,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Petra Bajo",NULL
+151,326,GT05-5,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+152,327,H5,current,NULL,"from top",50,1000,stalagmite,"seasonal drip",yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Nick Scroxton",https://www.ncdc.noaa.gov/paleo/study/9640
+153,328,JHU-1,current,NULL,"from top",NULL,300,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Nikita Kaushal",https://www.ncdc.noaa.gov/paleo/study/11937
+154,329,C996-1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/9742
+154,330,C996-2,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/9742
+155,331,KNI-51-0,current,NULL,"from base",15,600,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker","https://www.ncdc.noaa.gov/paleo/study/20530 "
+155,332,KNI-51-3,current,NULL,"from base",15,500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker","https://www.ncdc.noaa.gov/paleo/study/20530 "
+155,333,KNI-51-4,current,NULL,"from base",15,600,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker","https://www.ncdc.noaa.gov/paleo/study/20530 "
+155,334,KNI-51-7,current,NULL,"from base",15,500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker","https://www.ncdc.noaa.gov/paleo/study/20530 "
+155,335,KNI-51-10,current,NULL,"from base",15,500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker","https://www.ncdc.noaa.gov/paleo/study/20530 "
+155,336,KNI-51-11,current,NULL,"from base",15,500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker","https://www.ncdc.noaa.gov/paleo/study/20530 "
+155,337,KNI-51-A2-side1,current,NULL,"from base",15,500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker","https://www.ncdc.noaa.gov/paleo/study/20530 "
+155,338,KNI-51-A2-side2,current,NULL,"from base",15,500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker","https://www.ncdc.noaa.gov/paleo/study/20530 "
+155,339,KNI-51-C,current,NULL,"from base",15,500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker","https://www.ncdc.noaa.gov/paleo/study/20530 "
+155,340,KNI-51-F,current,NULL,"from base",15,500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker","https://www.ncdc.noaa.gov/paleo/study/20530 "
+155,341,KNI-51-G,current,NULL,"from base",15,500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker","https://www.ncdc.noaa.gov/paleo/study/20530 "
+155,342,KNI-51-H,current,NULL,"from base",15,500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker","https://www.ncdc.noaa.gov/paleo/study/20530 "
+155,343,KNI-51-I,current,NULL,"from base",15,500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker","https://www.ncdc.noaa.gov/paleo/study/20530 "
+155,344,KNI-51-J,current,NULL,"from base",15,500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker","https://www.ncdc.noaa.gov/paleo/study/20530 "
+155,345,KNI-51-N,current,NULL,"from base",15,500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker","https://www.ncdc.noaa.gov/paleo/study/20530 "
+155,346,KNI-51-O,current,NULL,"from base",15,500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker","https://www.ncdc.noaa.gov/paleo/study/20530 "
+156,347,S1,current,NULL,"from top",40,30,stalagmite,unknown,yes,yes,no,no,no,no,yes,no,no,no,no,no,"Martin Finné",NULL
+157,348,Mun-stm2,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,yes,no,no,"Dominique Genty",NULL
+157,349,Mun-stm1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,yes,no,no,"Dominique Genty",NULL
+158,350,MD3,current,NULL,"from top",NULL,NULL,flowstone,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+159,351,Q5,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Nick Scroxton",ftp://ftp.ncdc.noaa.gov/pub/data/paleo/syntrace/speleothem/cave-qunf-q5.txt
+160,352,2-6-HR,current,NULL,"from top",20,35,stalagmite,mixture,yes,yes,unknown,yes,unknown,yes,yes,yes,no,no,unknown,yes,"Yuval Burstyn",https://www.ncdc.noaa.gov/paleo/study/23098
+160,353,2N-HR,current,NULL,"from top",20,35,stalagmite,mixture,yes,yes,unknown,yes,unknown,unknown,yes,unknown,no,unknown,unknown,yes,"Yuval Burstyn",https://www.ncdc.noaa.gov/paleo/study/23099
+160,354,Soreq-composite,"current partially modified",690,"from top",NULL,NULL,composite,"not applicable",yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Yuval Burstyn, Franziska Lechleitner",https://www.ncdc.noaa.gov/paleo/study/5423
+161,355,"Aurora 3",current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+162,356,Calcite,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+163,357,GG1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+163,358,GG2,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+164,359,Maxs,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+165,360,RK-C,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+166,361,TR-A,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+166,362,TR-B,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+167,363,Waiau,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+168,364,WP1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+169,365,"Doubtful Xanadu",current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+170,366,S3,current,NULL,"from top",20,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Nick Scroxton",NULL
+104,367,LR06-B3_2013,current,NULL,"from top",40,800,stalagmite,unknown,yes,yes,yes,yes,no,yes,yes,no,no,no,no,yes,"Nick Scroxton",https://www.ncdc.noaa.gov/paleo/study/16357
+104,368,LR06-C2,current,NULL,"from top",40,900,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Nick Scroxton",https://www.ncdc.noaa.gov/paleo/study/16357
+104,369,LR06-C3_2013,current,NULL,"from top",40,900,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Nick Scroxton",https://www.ncdc.noaa.gov/paleo/study/16357
+104,370,LR06-C5,current,NULL,"from top",40,900,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Nick Scroxton",https://www.ncdc.noaa.gov/paleo/study/16357
+104,371,LR06-C6,current,NULL,"from top",40,900,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Nick Scroxton",https://www.ncdc.noaa.gov/paleo/study/16357
+104,372,LL_Comp_2013,current,NULL,"from top",40,900,composite,"not applicable",no,yes,no,no,no,no,no,no,no,no,no,no,"Nick Scroxton",https://www.ncdc.noaa.gov/paleo/study/16357
+171,373,DH2,current,NULL,"from base",NULL,NULL,other,unknown,yes,yes,unknown,no,no,no,unknown,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/19745
+171,374,DH2-D,current,NULL,"from base",NULL,NULL,other,unknown,yes,yes,unknown,no,no,no,unknown,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/19745
+171,375,"DH2-E Terminal1",current,NULL,"from base",NULL,NULL,other,unknown,yes,yes,unknown,no,no,no,unknown,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/19745
+171,376,"DH2-E Terminal2",current,NULL,"from base",NULL,NULL,other,unknown,yes,yes,unknown,no,no,no,unknown,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/19745
+172,377,W5,current,NULL,"from top",100,375,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+173,378,PDR-1,current,NULL,"from top",50,360,stalagmite,unknown,yes,yes,yes,unknown,no,no,no,no,no,no,no,no,"Matthew Lachniet",NULL
+174,379,ZLP1,current,NULL,"from top",35,20,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,no,unknown,unknown,"Zoltán Kern",NULL
+174,380,ZLP2,current,NULL,"from top",35,20,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,no,unknown,unknown,"Zoltán Kern",NULL
+133,381,RL4_2018,current,NULL,"from top",42,100,flowstone,unknown,yes,yes,unknown,unknown,yes,unknown,unknown,no,unknown,unknown,unknown,yes,"Russell Drysdale",NULL
+71,382,NU2,current,NULL,"from top",150,1000,stalagmite,unknown,yes,yes,unknown,yes,no,yes,yes,no,no,yes,no,no,"István G. Hatvani",NULL
+176,383,QT9,current,NULL,"from top",80,50,stalagmite,"seasonal drip",no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu, Jack Krone",NULL
+176,384,QT24,current,NULL,"from top",80,50,stalagmite,"seasonal drip",no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu, Jack Krone",NULL
+176,385,QT40,current,NULL,"from top",80,50,stalagmite,"seasonal drip",no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu, Jack Krone",NULL
+176,386,QT41,current,NULL,"from top",80,50,stalagmite,"seasonal drip",no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu, Jack Krone",NULL
+176,387,QT25,current,NULL,"from top",80,50,stalagmite,"seasonal drip",no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu, Jack Krone",NULL
+177,388,CM_2013,current,NULL,"from top",60,50,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Natasha Sekhon, Sophie Warken",NULL
+178,389,Y1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,no,no,no,no,no,no,no,no,no,no,"Jun Hu, Jack Krone",https://www.ncdc.noaa.gov/paleo/study/10443
+179,390,C09-2,current,NULL,"from top",90,300,stalagmite,"seepage flow",yes,yes,yes,yes,no,no,yes,no,no,yes,no,yes,"Sophie Warken",NULL
+180,391,CH-1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Bronwyn Dixon",NULL
+181,392,10FC-02,current,NULL,"from top",NULL,30,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Bronwyn Dixon",https://www.ncdc.noaa.gov/paleo/study/16998
+181,393,05FC-04,current,NULL,"from top",NULL,30,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Bronwyn Dixon",https://www.ncdc.noaa.gov/paleo/study/16998
+182,394,NK,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,yes,"Nikita Kaushal",NULL
+183,395,CP,current,NULL,"from top",130,1500,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,yes,"Natasha Sekhon, Sophie Warken",NULL
+184,396,CR-1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Bronwyn Dixon",NULL
+185,397,EXC3,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,yes,unknown,unknown,unknown,unknown,unknown,"Duncan Keenan-Jones",https://www.ncdc.noaa.gov/paleo/study/12279
+185,398,EXC4,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,yes,unknown,unknown,unknown,unknown,unknown,"Duncan Keenan-Jones",https://www.ncdc.noaa.gov/paleo/study/12280
+186,399,JB2,current,NULL,"from top",100,500,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,yes,"Bronwyn Dixon",NULL
+187,400,CB25,current,NULL,"from top",50,NULL,flowstone,"fast flow",yes,yes,no,yes,no,yes,yes,no,no,no,no,no,"Vanessa Johnston, Andrea Columbu",NULL
+187,401,CB39,current,NULL,"from top",130,50,flowstone,"seepage flow",yes,yes,no,yes,no,yes,yes,no,no,no,no,no,"Vanessa Johnston, Andrea Columbu",NULL
+187,402,CB47,current,NULL,"from top",50,NULL,stalagmite,mixture,yes,yes,no,yes,no,yes,yes,no,no,no,no,no,"Vanessa Johnston, Andrea Columbu",NULL
+188,403,CH-7,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Sophie Warken",NULL
+189,404,CH04-02,current,NULL,"from top",55,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Monica Arienzo",https://www.ncdc.noaa.gov/paleo/study/20611
+190,405,CWC-1s,current,NULL,"from base",30,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Natasha Sekhon",https://www.ncdc.noaa.gov/paleo/study/5425
+190,406,CWC-2ss,current,NULL,"from base",30,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Natasha Sekhon",https://www.ncdc.noaa.gov/paleo/study/5425
+190,407,CWC-3l,current,NULL,"from base",30,NULL,stalagmite,mixture,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Natasha Sekhon",https://www.ncdc.noaa.gov/paleo/study/5425
+191,408,DIB-1,current,NULL,"from base",30,1750,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Natasha Sekhon",https://www.ncdc.noaa.gov/paleo/study/15072
+191,409,DIB-2,current,NULL,"from base",30,1750,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Natasha Sekhon",https://www.ncdc.noaa.gov/paleo/study/15072
+192,410,ELC_composite,current,NULL,"from top",NULL,NULL,composite,"not applicable",yes,yes,yes,no,no,no,no,no,no,no,no,no,"Michael Deininger",https://www.ncdc.noaa.gov/paleo/study/13836
+193,411,FR16,current,NULL,"from top",600,300,stalagmite,"seepage flow",yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Andrea Borsato",NULL
+194,412,GC_2,current,NULL,"from base",NULL,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Monica Arienzo",https://www.geosociety.org/datarepository/2007/2007154.pdf
+194,413,GC_3,current,NULL,"from base",NULL,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Monica Arienzo",https://www.geosociety.org/datarepository/2007/2007154.pdf
+195,414,HC-1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Sophie Warken",NULL
+152,415,H14,current,NULL,"from top",NULL,NULL,stalagmite,"seasonal drip",no,yes,no,no,no,yes,no,no,no,no,no,no,"Zoltán Kern",https://www.ncdc.noaa.gov/paleo/study/9957
+196,416,K1,current,NULL,"from base",NULL,80,stalagmite,"seasonal drip",yes,yes,no,no,no,yes,yes,no,no,no,no,no,"Zoltán Kern",NULL
+197,417,KC1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,yes,unknown,unknown,unknown,unknown,unknown,"Duncan Keenan-Jones",https://www.ncdc.noaa.gov/paleo/study/12279
+155,418,KNI-51-A1,current,NULL,"from base",15,500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker",https://www.ncdc.noaa.gov/paleo/study/20530
+155,419,KNI-51-P,current,NULL,"from base",15,500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Andy Baker",https://www.ncdc.noaa.gov/paleo/study/20530
+198,420,A1,current,NULL,"from top",NULL,120,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,unknown,no,no,"Yassine Ait Brahim",NULL
+199,421,Lynds_BCD,current,NULL,"from top",NULL,500,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Bronwyn Dixon",https://www.ncdc.noaa.gov/paleo/study/5435
+200,422,MC08-1,current,NULL,"from top",160,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Jessica Oster, Sophie Warken",https://www.ncdc.noaa.gov/paleo/study/23097
+201,423,MND-S1,current,NULL,"from base",20,60,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,yes,"Bronwyn Dixon",https://www.ncdc.noaa.gov/paleo/study/6106
+3,424,"Paraiso composite",current,NULL,"from top",NULL,NULL,composite,"not applicable",no,yes,yes,no,no,no,no,no,no,no,no,no,"Michael Deininger, Brittany Ward",NULL
+202,425,MN1,current,NULL,"from top",1000,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Andrea Columbu",NULL
+202,426,GG1,current,NULL,"from top",640,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Andrea Columbu","https://www.nature.com/articles/ngeo1106#supplementary-information "
+202,427,IS1,current,NULL,"from top",550,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Andrea Columbu",NULL
+203,428,PP10,current,NULL,"from base",30,150,stalagmite,"seepage flow",yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Silviu Constantin, István G. Hatvani",https://www.ncdc.noaa.gov/paleo/study/5540
+141,429,SO-17A,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Zoltán Kern",NULL
+205,430,SBE3,current,NULL,"from top",30,300,stalagmite,"seasonal drip",no,yes,yes,no,no,no,yes,no,no,no,no,no,"Valdir Felipe Novello",NULL
+206,431,SMT5,current,NULL,"from top",30,300,stalagmite,"seasonal drip",no,yes,yes,no,no,no,yes,no,no,no,no,no,"Valdir Felipe Novello",NULL
+207,432,Sha-2,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"MG Bustamante",NULL
+207,433,Sha-3,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"MG Bustamante",NULL
+207,434,Sha-composite,current,NULL,"not applicable",NULL,NULL,composite,"not applicable",no,yes,unknown,no,no,no,no,no,no,no,no,no,"MG Bustamante",NULL
+57,435,SG93,current,NULL,"from base",100,NULL,stalagmite,"seepage flow",yes,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Stein-Erik Lauritzen",NULL
+208,436,TA12-2,current,NULL,"from top",NULL,105,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,yes,"Jennifer B. Wurtzel",https://www.ncdc.noaa.gov/paleo/study/23790
+209,437,Uluu2,current,NULL,"from top",35,100,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,no,"Jens Fohlmeister",NULL
+210,438,WMC1,current,NULL,"from top",36,250,stalagmite,unknown,yes,yes,yes,yes,no,no,yes,no,no,no,no,yes,"Jessica Oster",https://www.ncdc.noaa.gov/paleo/study/22270
+211,439,X3,current,NULL,"from top",NULL,320,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Sakonvan Chawchai",ftp://ftp.ncdc.noaa.gov/pub/data/paleo/syntrace/speleothem/cave-xiangshui-x3.txt
+204,440,GU-Xi-1,current,NULL,"from top",100,250,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Sophie Warken",https://media.nature.com/original/nature-assets/ncomms/2015/150714/ncomms8627/extref/ncomms8627-s2.xls
+175,441,YB,current,NULL,"from top",NULL,100,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Sakonvan Chawchai",ftp://ftp.ncdc.noaa.gov/pub/data/paleo/syntrace/speleothem/cave-yaoba-don-yb1.txt
+39,442,DA_2005,current,NULL,"from top",NULL,500,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/5439
+183,443,CG,current,NULL,"from top",150,1500,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Sophie Warken",NULL
+149,444,DM05-01,current,NULL,"from top",43,180,stalagmite,"seasonal drip",yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Jessica Oster",NULL
+49,445,ML2,current,NULL,"from top",50,25,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,yes,"Jessica Oster",https://www.ncdc.noaa.gov/paleo/study/20290
+39,446,D4_2005,"current partially modified",115,"from top",100,500,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Yanjun Cai",NULL
+10,447,JAR4,current,NULL,"from top",10,150,stalagmite,"seasonal drip",no,yes,yes,no,no,no,yes,no,no,no,no,no,"Valdir Felipe Novello",NULL
+10,448,JAR1,current,NULL,"from top",10,150,stalagmite,"seasonal drip",no,yes,yes,no,no,no,yes,no,no,no,no,no,"Valdir Felipe Novello",NULL
+10,449,JAR_composite,current,NULL,"from top",10,150,composite,"not applicable",no,yes,yes,no,no,no,yes,no,no,no,no,no,"Valdir Felipe Novello",NULL
+102,450,K1,current,NULL,"from top",13,200,stalagmite,"seasonal drip",yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Inga Labuhn",NULL
+12,451,MAW-0201,current,NULL,"from top",70,700,stalagmite,unknown,yes,yes,yes,yes,no,no,yes,no,no,no,no,yes,"Jessica Oster, Nikita Kaushal",NULL
+212,452,PEK_composite,current,NULL,"from top",20,NULL,composite,"not applicable",yes,yes,yes,no,no,no,no,no,no,no,no,no,"Yuval Burstyn",https://www.ncdc.noaa.gov/paleo/study/13685
+212,453,"PEK 10",current,NULL,"from top",20,NULL,stalactite,"seasonal drip",yes,yes,yes,no,no,no,no,no,no,no,no,no,"Yuval Burstyn",NULL
+212,454,"PEK 9",current,NULL,"from top",20,NULL,stalactite,"seasonal drip",yes,yes,yes,no,no,no,no,no,no,no,no,no,"Yuval Burstyn",NULL
+212,455,"PEK 6",current,NULL,"from top",20,NULL,stalagmite,"seasonal drip",yes,yes,yes,no,no,no,no,no,no,no,no,no,"Yuval Burstyn",NULL
+141,456,SO-2,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"István G. Hatvani","https://www.nature.com/articles/ngeo1106#supplementary-information "
+213,457,1152,current,NULL,"from top",190,625,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Virgil Dragusin",10.1594/PANGAEA.892728
+214,458,C126-117,current,NULL,"from base",54,54,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Bronwyn Dixon",https://www.ncdc.noaa.gov/paleo/study/15075
+214,459,C126-118,current,NULL,"from base",54,54,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Bronwyn Dixon",https://www.ncdc.noaa.gov/paleo/study/15075
+215,460,Cha2_2018,superseded,588,"from top",NULL,300,stalagmite,"seasonal drip",no,yes,yes,unknown,no,no,yes,no,no,no,no,no,"Yassine Ait Brahim",NULL
+216,461,D1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,no,no,no,yes,no,no,no,no,no,"Yassine Ait Brahim",NULL
+216,462,D2,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,no,no,no,yes,no,no,no,no,no,"Yassine Ait Brahim",NULL
+217,463,EM1,current,NULL,"from top",100,150,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Haiwei Zhang, Yassine Ait Brahim",NULL
+135,464,GP5,current,NULL,"from top",NULL,50,stalagmite,"seasonal drip",no,yes,yes,yes,no,no,yes,yes,no,no,no,yes,"Yassine Ait Brahim",NULL
+218,465,NH6,current,NULL,"from top",20,100,stalagmite,unknown,yes,yes,yes,yes,no,no,no,no,no,no,no,no,"Yassine Ait Brahim",NULL
+218,466,NH33,current,NULL,"from top",20,100,stalagmite,unknown,yes,yes,yes,yes,no,no,no,no,no,no,no,no,"Yassine Ait Brahim",NULL
+219,467,SN17,current,NULL,"from top",50,200,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Haiwei Zhang, Yassine Ait Brahim",NULL
+220,468,BN-1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,no,no,no,no,no,no,no,no,no,no,"Sakonvan Chawchai",NULL
+221,469,LAVI-4,current,NULL,"from top",NULL,50,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Nick Scroxton",10.5194/cp-14-1881-2018-supplement
+222,470,PATA-1,current,NULL,"from top",NULL,200,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Nick Scroxton",10.5194/cp-14-1881-2018-supplement
+223,471,WX42B,current,NULL,"not applicable",NULL,1000,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Sakonvan Chawchai",https://www.ncdc.noaa.gov/paleo/study/8629
+224,472,XL16,current,NULL,"from top",NULL,NULL,stalagmite,"seepage flow",yes,yes,yes,yes,no,no,yes,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/23870
+224,473,XL2,current,NULL,"from top",NULL,NULL,stalagmite,"seepage flow",yes,yes,yes,yes,no,no,yes,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/23870
+224,474,XL26,current,NULL,"from top",NULL,NULL,stalagmite,"seepage flow",yes,yes,yes,yes,no,no,yes,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/23870
+39,475,DA_2009,"current partially modified",442,"from top",NULL,500,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Yanjun Cai",NULL
+12,476,ML.1,current,NULL,"from top",NULL,700,stalagmite,unknown,yes,yes,unknown,unknown,no,no,yes,no,no,no,no,unknown,"Nikita Kaushal",NULL
+12,477,ML.2,current,NULL,"from top",NULL,700,stalagmite,unknown,yes,yes,unknown,unknown,no,no,yes,no,no,no,no,unknown,"Nikita Kaushal",NULL
+54,478,SAH-2,current,NULL,"from top",NULL,NULL,stalagmite,"seasonal drip",yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Syed Masood Ahmad",NULL
+54,479,SAH-3,current,NULL,"from top",NULL,NULL,stalagmite,"seasonal drip",yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Syed Masood Ahmad",NULL
+54,480,SAH-6,current,NULL,"from top",NULL,NULL,stalagmite,"seasonal drip",yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Syed Masood Ahmad",NULL
+138,481,M1-2,current,NULL,"from top",20,100,stalagmite,"seasonal drip",yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Nick Scroxton",ftp://ftp.ncdc.noaa.gov/pub/data/paleo/speleothem/asia/yemen/moomi2003.txt
+140,482,SB3,current,NULL,"from top",NULL,1500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/8641
+140,483,SB-10_2008,superseded,295,"from top",NULL,1500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/8641
+140,484,SB11,current,NULL,"from top",NULL,1500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/8641
+140,485,SB22,current,NULL,"from top",NULL,1500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/8641
+140,486,SB23,current,NULL,"from top",NULL,1500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/8641
+140,487,SB24,current,NULL,"from top",NULL,1500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/8641
+140,488,SB25-1,current,NULL,"from top",NULL,1500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/8641
+140,489,SB25-2,current,NULL,"from top",NULL,1500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/8641
+140,490,SB-26_2008,superseded,296,"from top",NULL,1500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/8641
+140,491,SB34,current,NULL,"from top",NULL,1500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/8641
+140,492,SB41,current,NULL,"from top",NULL,1500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/8641
+140,493,SB42,current,NULL,"from top",NULL,1500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/8641
+140,494,TF,current,NULL,"from top",NULL,1500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Yassine Ait Brahim",https://www.ncdc.noaa.gov/paleo/study/8641
+12,495,KM-1,current,NULL,"from top",60,NULL,stalagmite,"seasonal drip",yes,yes,unknown,yes,yes,no,yes,no,no,no,no,yes,"Syed Masood Ahmad",NULL
+198,496,LH-2,current,NULL,"from top",100,NULL,stalagmite,"seepage flow",no,yes,yes,no,no,no,yes,no,no,no,no,no,"Yassine Ait Brahim",NULL
+225,497,"Boto 1",current,NULL,"from top",70,200,stalagmite,mixture,yes,yes,unknown,no,no,no,no,yes,no,no,no,no,"James Apaéstegui",NULL
+225,498,"Boto 3",current,NULL,"from top",70,200,stalagmite,mixture,yes,yes,unknown,yes,no,no,no,yes,no,no,no,no,"James Apaéstegui",NULL
+225,499,"Boto 7",current,NULL,"from top",70,370,stalagmite,mixture,yes,yes,unknown,no,no,no,no,yes,no,no,no,no,"James Apaéstegui",NULL
+226,500,NAR-C,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Michael Deininger",https://www.ncdc.noaa.gov/paleo/study/13836
+226,501,NAR-C-D,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Michael Deininger",https://www.ncdc.noaa.gov/paleo/study/13836
+226,502,NAR-C-F,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Michael Deininger",https://www.ncdc.noaa.gov/paleo/study/13836
+226,503,NAR-D,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Michael Deininger",https://www.ncdc.noaa.gov/paleo/study/13836
+226,504,NAR-F,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Michael Deininger",https://www.ncdc.noaa.gov/paleo/study/13836
+227,505,EC-16-5-F,current,NULL,"from top",700,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Sophie Warken",https://www.ncdc.noaa.gov/paleo/study/26770
+228,506,BC-11,current,NULL,"from top",30,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Sophie Warken",https://www.pnas.org/content/pnas/suppl/2013/05/22/1214870110.DCSupplemental/sapp.pdf
+229,507,ATM-7,current,NULL,"from top",40,500,stalagmite,mixture,yes,yes,yes,yes,no,no,yes,no,no,yes,no,yes,"Amy Frappier",https://www.ncdc.noaa.gov/paleo/study/5419
+230,508,MAG,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Nicolás M. Stríkis",NULL
+231,509,P09PH2,current,NULL,"from top",NULL,500,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Chris Brierley",https://www.ncdc.noaa.gov/paleo/study/12421
+232,510,Itzamna,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,unknown,no,no,no,"Sophie Warken",NULL
+233,511,KR1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Sophie Warken",http://www.geosociety.org/datarepository/2017/2017282-Data.xlsx
+234,512,St8-a,current,NULL,"from top",300,1500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Michael Deininger",NULL
+234,513,St8-b,current,NULL,"from top",300,1500,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Michael Deininger",NULL
+235,514,NC-A,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Chris Brierley",https://www.ncdc.noaa.gov/paleo/study/9790
+235,515,NC-B,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,yes,no,no,no,no,no,no,"Chris Brierley",https://www.ncdc.noaa.gov/paleo/study/9790
+236,516,TBV40,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,yes,"Kathleen Wendt",https://www.ncdc.noaa.gov/paleo/study/25990
+236,517,TBV63,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,yes,"Kathleen Wendt",https://www.ncdc.noaa.gov/paleo/study/25990
+237,518,"Boto 10",current,NULL,"from top",100,NULL,stalagmite,mixture,yes,yes,unknown,no,no,no,no,yes,no,no,no,no,"James Apaéstegui",NULL
+238,519,MGY,current,NULL,"from top",30,10,stalagmite,"fast flow",yes,yes,unknown,no,no,no,yes,no,no,yes,no,no,"Nikita Kaushal",NULL
+239,520,BLK12B,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Haiwei Zhang",NULL
+240,521,AN4,current,NULL,"from top",NULL,10,stalagmite,unknown,yes,yes,yes,no,no,no,unknown,no,no,yes,no,no,"Nikita Kaushal",NULL
+240,522,AN8,current,NULL,"from top",NULL,15,stalagmite,unknown,yes,yes,yes,no,no,no,unknown,no,no,yes,no,no,"Nikita Kaushal",NULL
+241,523,GB09-03,current,NULL,"from top",NULL,300,stalagmite,unknown,yes,yes,yes,no,no,unknown,unknown,no,no,unknown,no,unknown,"Nitesh Sinha",NULL
+241,524,GB11-09,current,NULL,"from top",NULL,300,stalagmite,unknown,yes,yes,yes,no,no,unknown,unknown,no,no,unknown,no,unknown,"Nitesh Sinha",NULL
+242,525,HZZ-11,current,NULL,"from base",NULL,1000,stalagmite,unknown,yes,yes,yes,yes,no,no,no,no,no,no,no,yes,"Eric Park, Jun Hu",https://www.ncdc.noaa.gov/paleo/study/26873
+242,526,HZZ-27,current,NULL,"from base",NULL,1000,stalagmite,unknown,yes,yes,yes,yes,no,no,no,no,no,no,no,yes,"Eric Park, Jun Hu",https://www.ncdc.noaa.gov/paleo/study/26873
+243,527,KG-6,current,NULL,"from top",10,200,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Syed Masood Ahmad",NULL
+244,528,LH1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Eric Park, Jun Hu",NULL
+244,529,LH4,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Eric Park, Jun Hu",NULL
+244,530,LH5,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Eric Park, Jun Hu",NULL
+244,531,LH6,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Eric Park, Jun Hu",NULL
+244,532,LH9,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Eric Park, Jun Hu",NULL
+244,533,LH30,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Eric Park, Jun Hu",NULL
+245,534,NK-1305,current,NULL,"from top",8,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,no,"Nikita Kaushal",NULL
+246,535,SR02,current,NULL,"from top",NULL,450,stalagmite,unknown,no,yes,unknown,unknown,no,unknown,unknown,unknown,unknown,no,no,unknown,"Nitesh Sinha",https://www.ncdc.noaa.gov/paleo/study/19199
+247,536,SHC-01,current,NULL,"from top",16,200,stalagmite,mixture,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Matt Bosomworth",
+247,537,SHC-02,current,NULL,"from top",16,200,stalagmite,mixture,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Matt Bosomworth",NULL
+248,538,SQ1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Haiwei Zhang",NULL
+248,539,SQ7,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Haiwei Zhang",NULL
+249,540,SG1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Haiwei Zhang",NULL
+249,541,SG2,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Haiwei Zhang",NULL
+250,542,WY27,current,NULL,"from top",NULL,500,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",NULL
+250,543,WY33,current,NULL,"from top",NULL,500,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Jun Hu",NULL
+251,544,ZZ12,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Yassine Ait Brahim",NULL
+252,545,AD4,current,NULL,"from top",10,20,stalagmite,unknown,yes,yes,no,no,no,no,no,no,no,no,no,no,"Nick Scroxton",NULL
+253,546,Hq-1,current,NULL,"from top",NULL,200,stalagmite,unknown,yes,yes,no,yes,no,no,no,no,no,no,no,yes,"Nick Scroxton",NULL
+253,547,STM1,current,NULL,"from top",NULL,2000,stalagmite,unknown,yes,yes,no,yes,no,no,no,no,no,no,no,yes,"Nick Scroxton",NULL
+253,548,STM6,current,NULL,"from top",NULL,2000,stalagmite,unknown,yes,yes,no,yes,no,no,no,no,no,no,no,yes,"Nick Scroxton",NULL
+254,549,46745,current,NULL,"from top",50,NULL,flowstone,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+254,550,46746-a,current,NULL,"from top",50,NULL,stalactite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+254,551,46747,current,NULL,"from top",50,NULL,stalactite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+254,552,138862.1,current,NULL,"from top",50,NULL,flowstone,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+254,553,138862.2a,current,NULL,"from top",50,NULL,flowstone,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+254,554,142828,current,NULL,"from top",50,NULL,flowstone,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+254,555,46746-b,current,NULL,"from base",50,NULL,stalactite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+254,556,138862.2b,current,NULL,"from top",50,NULL,flowstone,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+255,557,MT1,current,NULL,"from top",25,40,stalagmite,unknown,yes,yes,no,yes,no,no,no,no,no,no,no,yes,"Nick Scroxton",NULL
+256,558,LFG-2,current,NULL,"from base",NULL,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Bogdan Onac",NULL
+257,559,2p,current,NULL,"from top",30,200,stalagmite,"seasonal drip",yes,yes,no,no,no,no,no,no,no,no,no,no,"Zoltán Kern, István G. Hatvani",NULL
+258,560,STAL-B7-7,current,NULL,"from base",NULL,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,unknown,no,"Carlos Pérez-Mejías",NULL
+259,561,PA-8,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,unknown,unknown,yes,unknown,unknown,unknown,unknown,yes,"Carlos Pérez-Mejías",NULL
+260,562,CA,current,NULL,"from top",200,NULL,flowstone,unknown,yes,no,no,no,no,no,yes,no,no,no,no,no,"Andrea Columbu",NULL
+261,563,SIR-1,current,NULL,"from top",120,1300,stalagmite,unknown,yes,yes,unknown,yes,unknown,no,yes,no,no,no,unknown,yes,"Carlos Pérez-Mejías",NULL
+262,564,BB-1,current,NULL,"from top",65,NULL,stalagmite,mixture,yes,yes,unknown,yes,no,no,yes,no,no,no,no,no,"Breitenbach Sebastian",NULL
+262,565,BB-3,current,NULL,"from top",65,NULL,stalagmite,mixture,yes,yes,unknown,yes,no,no,yes,no,no,no,no,no,"Breitenbach Sebastian",NULL
+263,566,ocz-6,current,NULL,"from base",NULL,20,stalagmite,"seasonal drip",yes,yes,yes,yes,no,no,yes,no,no,no,no,yes,"Jacek Pawlak",NULL
+264,567,SPD-1,current,NULL,"from top",27,73,stalagmite,"seepage flow",yes,yes,yes,no,no,no,no,no,no,no,no,no,"Nina Loncar",NULL
+264,568,SPD-2,current,NULL,"from top",27,75,stalagmite,"seepage flow",yes,yes,yes,no,no,no,no,no,no,no,no,no,"Nina Loncar",NULL
+265,569,CAM-1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Oana-Alexandra Dumitru","https://www.ncdc.noaa.gov/paleo/study/24950 "
+266,570,Vic-III-4,current,NULL,"from top",30,350,flowstone,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Alexander Budsky",NULL
+267,571,GCL6,current,NULL,"from top",13,100,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Rhawn Denniston",NULL
+268,572,PN-95-5,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Inga Labuhn",NULL
+269,573,Gej-1,current,NULL,"from top",20,NULL,stalagmite,unknown,yes,yes,no,yes,no,no,no,no,yes,no,no,yes,"Matt Bosomworth",NULL
+270,574,GZ14-1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,yes,no,no,no,no,yes,"Matt Bosomworth",NULL
+271,575,YB-F1,current,NULL,"from top",NULL,NULL,flowstone,unknown,yes,yes,unknown,yes,yes,no,no,no,no,no,no,no,"Bronwyn Dixon",NULL
+272,576,M-1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+273,577,CRC-3,current,NULL,"from top",70,150,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,yes,no,no,"Sophie Warken",https://media.nature.com/original/nature-assets/ngeo/journal/v6/n8/extref/ngeo1862-s1.pdf
+274,578,CT-1,current,NULL,"from base",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Sophie Warken","https://www.ncdc.noaa.gov/paleo/study/10442 "
+274,579,CT-5,current,NULL,"from base",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Sophie Warken","https://www.ncdc.noaa.gov/paleo/study/10442 "
+274,580,CT-6,current,NULL,"from base",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Sophie Warken","https://www.ncdc.noaa.gov/paleo/study/10442 "
+274,581,CT-7,current,NULL,"from base",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Sophie Warken","https://www.ncdc.noaa.gov/paleo/study/10442 "
+72,582,POM1,current,NULL,"from top",40,80,stalagmite,"seepage flow",yes,yes,yes,no,no,no,no,no,no,no,no,no,"Virgil Dragusin",10.1594/PANGAEA.892728
+275,583,BG41,current,NULL,"from top",50,34,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Rhawn Denniston",NULL
+275,584,BG66,current,NULL,"from top",50,34,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Rhawn Denniston",NULL
+275,585,BG67,current,NULL,"from top",50,34,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Rhawn Denniston",NULL
+275,586,BG611,current,NULL,"from top",50,34,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Rhawn Denniston",NULL
+275,587,BG6LR,current,NULL,"from top",50,34,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Rhawn Denniston",NULL
+215,588,Cha2_2019,current,NULL,"from top",NULL,300,stalagmite,"seasonal drip",no,yes,yes,unknown,no,no,yes,no,no,no,no,no,"Yassine Ait Brahim",NULL
+215,589,Cha1,current,NULL,"from top",NULL,300,stalagmite,"seasonal drip",no,yes,yes,unknown,no,no,yes,no,no,no,no,no,"Yassine Ait Brahim",NULL
+182,590,KOT-I,current,NULL,"from top",35,140,stalagmite,unknown,yes,yes,yes,no,no,no,yes,no,no,no,no,no,"Nikita Kaushal",NULL
+135,591,GP2,current,NULL,"from top",NULL,NULL,stalagmite,"seasonal drip",no,yes,yes,yes,no,no,yes,yes,no,no,no,yes,"Yassine Ait Brahim",NULL
+192,592,ELC-A,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Michael Deininger",https://www.ncdc.noaa.gov/paleo/study/13836
+192,593,ELC-B,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,yes,no,no,no,no,no,no,no,no,no,"Michael Deininger",https://www.ncdc.noaa.gov/paleo/study/13836
+27,594,TM6,current,NULL,"from top",50,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Brittany Ward",NULL
+276,595,BNT-2,current,NULL,"from top",45,100,flowstone,"seasonal drip",yes,yes,yes,yes,no,yes,yes,no,no,yes,no,yes,"Attila Demény","https://ars.els-cdn.com/content/image/1-s2.0-S1040618218307201-mmc2.xlsx "
+117,596,Bu2_2018,"current partially modified",241,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,yes,unknown,unknown,yes,unknown,no,no,no,yes,"Carlos Pérez-Mejías",NULL
+277,597,P00-H2,current,NULL,"from top",NULL,650,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Chris Brierley",https://www.ncdc.noaa.gov/paleo/study/16405
+277,598,P00-H1,current,NULL,"from top",NULL,650,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Chris Brierley",https://www.ncdc.noaa.gov/paleo/study/16405
+277,599,P09-H1b,current,NULL,"from top",300,1100,stalagmite,"seepage flow",yes,yes,no,no,no,no,no,no,no,no,no,no,"Nick Scroxton",NULL
+277,600,P10-H5,current,NULL,"from top",300,1100,stalagmite,"seepage flow",yes,yes,no,no,no,no,no,no,no,no,no,no,"Nick Scroxton",NULL
+277,601,P10-H2,current,NULL,"from top",300,1100,stalagmite,"seepage flow",yes,yes,no,no,no,no,no,no,no,no,no,no,"Nick Scroxton",NULL
+277,602,PeruMIS6Composite,current,NULL,"from top",NULL,NULL,composite,"not applicable",no,yes,no,no,no,no,no,no,no,no,no,no,"Nick Scroxton",NULL
+24,603,LSF15,current,NULL,"from top",20,NULL,stalagmite,unknown,no,yes,unknown,no,no,yes,no,no,no,no,no,no,"Nicolás M. Stríkis",NULL
+24,604,LSF3_2018,"current partially modified",92,"from top",20,NULL,stalagmite,unknown,no,yes,unknown,no,no,yes,no,no,no,no,no,no,"Nicolás M. Stríkis",NULL
+24,605,LSF13,current,NULL,"from top",20,NULL,stalagmite,unknown,no,yes,unknown,no,no,yes,no,no,no,no,no,no,"Nicolás M. Stríkis",NULL
+24,606,LSF11,current,NULL,"from top",20,NULL,stalagmite,unknown,no,yes,unknown,no,no,yes,no,no,no,no,no,no,"Nicolás M. Stríkis",NULL
+24,607,LSF9,current,NULL,"from top",20,NULL,stalagmite,unknown,no,yes,unknown,no,no,yes,no,no,no,no,no,no,"Nicolás M. Stríkis",NULL
+177,608,CM_2019,"current partially modified",388,"from top",60,50,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Sophie Warken",NULL
+177,609,CMa,current,NULL,"from top",60,50,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Sophie Warken",NULL
+177,610,CMb,current,NULL,"from top",60,50,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Sophie Warken",NULL
+113,611,PX5,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Nicolás M. Stríkis",NULL
+113,612,PX7_2018,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,no,no,no,no,no,no,no,no,no,"Nicolás M. Stríkis",NULL
+278,613,PP1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Sophie Warken","https://www.ncdc.noaa.gov/paleo/study/9739 "
+23,614,LG12B,current,NULL,"from top",NULL,500,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Nicolás M. Stríkis",NULL
+23,615,LG10,current,NULL,"from top",NULL,500,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Nicolás M. Stríkis",NULL
+23,616,LG25,current,NULL,"from top",NULL,500,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Nicolás M. Stríkis",NULL
+6,617,MSP,current,NULL,"from top",NULL,31,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Eric Park, Jun Hu",https://www.ncdc.noaa.gov/paleo/study/5440
+6,618,MSX,current,NULL,"from top",NULL,35,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Eric Park, Jun Hu",https://www.ncdc.noaa.gov/paleo/study/5440
+6,619,MSH,current,NULL,"from top",NULL,39,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Eric Park, Jun Hu",https://www.ncdc.noaa.gov/paleo/study/5440
+2,620,CNKS-2,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Haiwei Zhang",NULL
+2,621,CNKS-3,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Haiwei Zhang",NULL
+2,622,CNKS-7,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Haiwei Zhang",NULL
+2,623,CNKS-9,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,yes,no,no,no,no,no,no,no,no,no,"Haiwei Zhang",NULL
+279,624,46322,current,NULL,"from top",NULL,NULL,flowstone,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+279,625,46330-a,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+279,626,46861,current,NULL,"from top",NULL,NULL,flowstone,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+279,627,50100,current,NULL,"from top",NULL,NULL,flowstone,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+279,628,142819,current,NULL,"from top",NULL,NULL,flowstone,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+279,629,142820,current,NULL,"from top",NULL,NULL,flowstone,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+279,630,46330-b,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Kerstin Braun",NULL
+86,631,MOD-27,current,NULL,"from top",25,340,stalactite,"seasonal drip",yes,yes,unknown,no,no,no,yes,no,no,yes,no,no,"István G. Hatvani",NULL
+86,632,MOD-21,current,NULL,"from top",22,210,stalagmite,"seasonal drip",yes,yes,yes,no,unknown,no,yes,no,no,yes,no,yes,"István G. Hatvani",NULL
+13,633,BGC-5,current,NULL,"from base",30,300,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Bronwyn Dixon",https://www.ncdc.noaa.gov/paleo/study/22990
+13,634,BGC-10,current,NULL,"from base",30,300,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Bronwyn Dixon",https://www.ncdc.noaa.gov/paleo/study/22990
+13,635,BGC-11_2017,current,NULL,"from base",30,300,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Bronwyn Dixon",https://www.ncdc.noaa.gov/paleo/study/22990
+13,636,BGC-16,current,NULL,"from base",30,300,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Bronwyn Dixon",https://www.ncdc.noaa.gov/paleo/study/22990
+155,637,KNI-51-1,current,NULL,"from base",15,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Bronwyn Dixon",https://www.ncdc.noaa.gov/paleo/study/22990
+155,638,KNI-51-8,current,NULL,"from base",15,NULL,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Bronwyn Dixon",https://www.ncdc.noaa.gov/paleo/study/22990
+280,639,AH-1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,unknown,no,no,unknown,no,no,no,no,unknown,"Carlos Pérez-Mejías",NULL
+281,640,V1,current,NULL,"from base",10,150,stalagmite,unknown,yes,yes,unknown,no,no,no,yes,no,no,no,no,no,"Sophie Warken",https://www.ncdc.noaa.gov/paleo/study/5429
+14,641,CDR3,current,NULL,"from base",50,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Natasha Sekhon",https://www.ncdc.noaa.gov/paleo/study/19038
+14,642,WR11,current,NULL,"from base",50,NULL,stalagmite,unknown,yes,yes,unknown,yes,no,no,no,no,no,no,no,yes,"Natasha Sekhon",https://www.ncdc.noaa.gov/paleo/study/19038
+15,643,BA-5,current,NULL,"from top",NULL,180,stalagmite,unknown,yes,yes,unknown,yes,no,yes,yes,no,no,no,no,no,"Gina Moseley",NULL
+15,644,BA-7,current,NULL,"from top",NULL,180,stalagmite,unknown,yes,yes,unknown,yes,no,yes,yes,no,no,no,no,no,"Gina Moseley",NULL
+283,645,BN-1,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+283,646,BN-2,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+283,647,BN-3,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+284,648,CN-1,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+285,649,Disbelief,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+286,650,GAR-01_drill,current,NULL,"from top",91,100,stalagmite,"seasonal drip",yes,yes,yes,yes,no,no,yes,no,no,yes,no,yes,"Carlos Pérez-Mejías",NULL
+286,651,GAR-01_laser_d18O,current,NULL,"from top",91,100,stalagmite,"seasonal drip",no,yes,yes,yes,no,no,yes,no,no,yes,no,yes,"Carlos Pérez-Mejías",NULL
+286,652,GAR-01_laser_d13C,current,NULL,"from top",91,100,stalagmite,"seasonal drip",yes,no,yes,yes,no,no,yes,no,no,yes,no,yes,"Carlos Pérez-Mejías",NULL
+287,653,TF-2,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+288,654,WN-4,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+288,655,WN-11,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+289,656,GAS-12,current,NULL,"from top",NULL,250,stalagmite,unknown,unknown,unknown,unknown,unknown,unknown,no,no,no,no,no,no,no,"Gina Moseley",NULL
+289,657,GAS-13,current,NULL,"from top",NULL,250,stalagmite,unknown,unknown,unknown,unknown,unknown,unknown,no,no,no,no,no,no,no,"Gina Moseley",NULL
+289,658,GAS-22,current,NULL,"from top",NULL,250,stalagmite,unknown,unknown,unknown,unknown,yes,unknown,no,no,no,no,no,no,no,"Gina Moseley",NULL
+289,659,GAS-25,current,NULL,"from top",NULL,250,stalagmite,unknown,unknown,unknown,unknown,yes,unknown,no,no,no,no,no,no,no,"Gina Moseley",NULL
+289,660,GAS-27,current,NULL,"from top",NULL,250,stalagmite,unknown,unknown,unknown,unknown,yes,unknown,no,no,no,no,no,no,no,"Gina Moseley",NULL
+289,661,GAS-29,current,NULL,"from top",NULL,250,stalagmite,unknown,unknown,unknown,unknown,unknown,unknown,no,no,no,no,no,no,no,"Gina Moseley",NULL
+290,662,HUN-14,current,NULL,"from top",NULL,50,stalagmite,unknown,unknown,unknown,unknown,unknown,unknown,no,no,no,no,no,no,no,"Gina Moseley",NULL
+105,663,SCH-6,current,NULL,"from top",NULL,350,stalagmite,unknown,unknown,unknown,unknown,unknown,unknown,no,no,no,no,no,no,no,"Gina Moseley",NULL
+115,664,HOL-19,current,NULL,"from top",NULL,600,stalagmite,unknown,unknown,unknown,unknown,unknown,unknown,no,no,no,no,no,no,no,"Gina Moseley",NULL
+145,665,CC-1_2018,current,NULL,"from top",400,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Carlos Pérez-Mejías, Belen Martrat",https://www.nature.com/articles/s41467-018-06683-3#additional-information
+145,666,CC-5_2018,current,NULL,"from top",400,NULL,stalagmite,unknown,yes,yes,unknown,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Carlos Pérez-Mejías, Belen Martrat",https://www.nature.com/articles/s41467-018-06683-3#additional-information
+145,667,CC-7_2018,current,NULL,"from top",400,500,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Carlos Pérez-Mejías, Belen Martrat",https://www.nature.com/articles/s41467-018-06683-3#additional-information
+145,668,CC-28_2018,current,NULL,"from top",400,NULL,stalagmite,unknown,yes,yes,unknown,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Carlos Pérez-Mejías, Belen Martrat",https://www.nature.com/articles/s41467-018-06683-3#additional-information
+145,669,CC_stack,current,NULL,"from top",400,NULL,composite,"not applicable",yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Belen Martrat",https://www.nature.com/articles/s41467-018-06683-3#additional-information
+145,670,CC27,current,NULL,"from top",NULL,NULL,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Belen Martrat",NULL
+292,671,KTR-2,current,NULL,"from top",NULL,600,stalagmite,"seepage flow",yes,yes,yes,yes,yes,no,yes,no,no,no,no,no,"István G. Hatvani","https://ars.els-cdn.com/content/image/1-s2.0-S0031018218310198-mmc1.xlsx "
+293,672,TM-17,current,NULL,"from top",NULL,200,stalagmite,unknown,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,"Andy Baker",NULL
+82,673,HW-1,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+165,674,RK-A,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+165,675,RK-B,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+165,676,RK05-1,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+165,677,RK05-3,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+165,678,RK05-4,current,NULL,"from top",NULL,NULL,unknown,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Drew Lorrey",NULL
+223,679,WXSM-51,current,NULL,"from top",NULL,800,stalagmite,unknown,unknown,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Kathleen Johnson",NULL
+223,680,WXSM-52,current,NULL,"from top",NULL,800,stalagmite,unknown,unknown,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Kathleen Johnson",NULL
+128,681,BCC-9,current,NULL,"from top",NULL,1000,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Monica Arienzo",https://ars.els-cdn.com/content/image/1-s2.0-S0012821X19303681-mmc3.xlsx
+128,682,BCC-10_2019,current,NULL,"from top",NULL,1000,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Monica Arienzo",https://ars.els-cdn.com/content/image/1-s2.0-S0012821X19303681-mmc3.xlsx
+128,683,BCC-30,current,NULL,"from top",NULL,1000,stalagmite,unknown,yes,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Monica Arienzo",https://ars.els-cdn.com/content/image/1-s2.0-S0012821X19303681-mmc3.xlsx
+294,684,PA-2b,current,NULL,"from top",60,100,stalagmite,unknown,yes,yes,unknown,no,no,no,unknown,no,no,no,no,no,"Sophie Warken",https://journals.sagepub.com/doi/figure/10.1177/0959683614565951?
+65,685,WR12-01,current,NULL,"from top",150,NULL,stalagmite,"seasonal drip",no,yes,unknown,no,no,no,no,no,no,no,no,no,"Nitesh Sinha",https://www.ncdc.noaa.gov/paleo/study/19806
+65,686,WR12-12,current,NULL,"from top",150,NULL,stalagmite,"seasonal drip",no,yes,unknown,no,no,no,no,no,no,no,no,no,"Nitesh Sinha",https://www.ncdc.noaa.gov/paleo/study/19806
+141,687,SO-4,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Belen Martrat",https://www.nature.com/articles/ngeo1106#supplementary-information
+141,688,SO-6,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Belen Martrat",https://www.nature.com/articles/ngeo1106#supplementary-information
+141,689,SO-14B,current,NULL,"from top",NULL,NULL,stalagmite,unknown,no,yes,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,"Belen Martrat",https://www.nature.com/articles/ngeo1106#supplementary-information
+160,690,Soreq-composite185,current,NULL,"not applicable",30,20,composite,"not applicable",yes,yes,yes,yes,unknown,yes,yes,yes,unknown,yes,unknown,unknown,"Yuval Burstyn",https://www.ncdc.noaa.gov/paleo/study/13685
+282,691,WS-5d,current,NULL,"from top",50,100,stalagmite,unknown,yes,yes,unknown,no,no,no,no,no,no,no,no,no,"Mohammed El-Shanawy",NULL

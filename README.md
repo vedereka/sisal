@@ -20,6 +20,24 @@ Script with the functions needed to run `/DB_uploads/Example_upload_SISAL_agemod
 
 ---
 
+## `/csv_extract/`
+
+`sisalv2_extract_data_csv.R`
+Script to upload and query the sisal database from csv files. Tested with sisalv2. It creates two functions:
+1- read.sisal.csv: loads csv sisalv2 files and creates a "sisal object"
+2- sisal.time.series: extracts time-series for a time period and region (with references)
+
+`/csv_extract/sisalv2_csv/` 
+It contains the csv files downloaded from the UoR repository: https://doi.org/10.17864/1947.256
+
+---
+
+## `/sisalv2_example_codes/`
+
+SQL, Matlab, Julia, Python and R scripts to access the latest version of the database. These are also available http://dx.doi.org/10.17864/1947.256
+
+---
+
 ## `/sisal_wokam_plot/`
 
 `map_sites_count_labels.R`
@@ -44,12 +62,6 @@ Script to create regional maps with the location of SISAL sites and the number o
 `/input/wokam/` World Karst Aquifer Map shp data file from Goldscheider, N., Chen, Z., Auler, A.S. et al. Global distribution of carbonate rocks and karst water resources. Hydrogeol J 28, 1661–1677 (2020). https://doi.org/10.1007/s10040-020-02139-5 
 
 `/input/ne_110m_land/` Coastal shp data file from http://www.naturalearthdata.com/downloads/110m-physical-vectors/ 
-
----
-
-## `/sisalv2_example_codes/`
-
-SQL, Matlab, Julia, Python and R scripts to access the latest version of the database. These are also available http://dx.doi.org/10.17864/1947.256
 
 ---
 

@@ -1,0 +1,294 @@
+site_id,site_name,latitude,longitude,elevation,geology,rock_age,monitoring
+1,"Bittoo cave",30.7903,77.7764,3000.0,limestone,Pleistocene,yes
+2,"Kesang cave",42.8700,81.7500,2000.0,unknown,Pleistocene,no
+3,"Paraiso cave",-4.0667,-55.4500,60.0,limestone,Carboniferous,yes
+4,"Villars cave",45.4300,0.7800,175.0,limestone,Jurassic,yes
+5,"Yangkou cave",29.0333,107.1833,2140.0,limestone,Permian,yes
+6,"Hulu cave",32.5000,119.1700,86.0,unknown,unknown,unknown
+7,"Cold Air cave",-24.0000,29.1833,1420.0,dolomite,Precambrian,yes
+8,"Lancaster Hole",54.2209,-2.5168,294.0,limestone,Carboniferous,yes
+9,"Tonnel’naya cave",38.4000,67.2300,3226.0,unknown,Pleistocene,yes
+10,"Jaraguá cave",-21.0830,-56.5830,570.0,dolomite,unknown,yes
+11,"Jeita cave",33.9500,35.6500,100.0,limestone,Pleistocene,no
+12,"Mawmluh cave",25.2622,91.8817,1160.0,mixed,Eocene,yes
+13,"Ball Gown cave",-17.0300,125.0000,100.0,limestone,Devonian,yes
+14,"Lehman caves",39.0100,-114.2200,2080.0,limestone,Cambrian,yes
+15,"Baschg cave",47.2501,9.6667,780.0,limestone,Cretaceous,no
+16,"Han-sur-Lesse cave",50.1164,5.1884,180.0,limestone,Devonian,no
+17,"Huangye cave",33.5833,105.1167,1650.0,unknown,unknown,no
+18,"Abissal cave",-5.5642,-37.6659,100.0,limestone,unknown,no
+19,"Kanaan cave",33.9069,35.6069,98.0,limestone,Jurassic,yes
+20,"Secret cave",4.0848,114.8503,250.0,limestone,unknown,unknown
+21,"Uamh an Tartair",58.1400,-4.9300,220.0,dolomite,Ordovician,yes
+22,"RukieSSa cave",8.6036,40.3772,1618.0,limestone,Jurassic,yes
+23,"Lapa grande cave",-14.3700,-44.2800,590.0,limestone,Precambrian,no
+24,"Lapa sem fim cave",-16.1503,-44.6281,341.0,limestone,Precambrian,yes
+25,"Palestina cave",-5.9200,-77.3500,870.0,limestone,Triassic,yes
+26,"Okshola cave",67.0000,15.0000,165.0,marble,unknown,no
+27,"Tamboril cave",-16.0000,-47.0000,200.0,dolomite,Precambrian,yes
+28,"Valmiki cave ",15.1500,77.8167,420.0,dolomite,Precambrian,no
+29,"Mairs cave",-32.1600,138.8300,475.0,limestone,Cambrian,no
+30,"Lobatse cave",-25.2100,25.6800,1200.0,dolomite,unknown,no
+31,"Abaliget cave",46.1333,18.1167,209.0,limestone,Triassic,yes
+32,Anjokipoty,-15.5784,46.7344,43.0,limestone,unknown,no
+33,"Bero cave",8.4241,40.3073,1363.0,limestone,Jurassic,yes
+34,"Cueva del Diablo",18.1920,-99.9210,1030.0,unknown,Cretaceous,no
+35,"Curupira cave",-15.2002,-56.7839,420.0,limestone,unknown,no
+36,"Dayu cave",33.1330,106.3000,870.0,dolomite,Precambrian,no
+37,"DeSoto caverns",33.3722,-86.3667,150.0,dolomite,Ordovician,unknown
+38,"Diva cave",-12.3819,-41.5733,680.0,limestone,unknown,no
+39,"Dongge cave",25.2833,108.0833,680.0,limestone,Pleistocene,no
+40,"Excentrica cave",37.1000,-7.7700,100.0,limestone,Jurassic,yes
+41,"Fukugaguchi cave",36.9917,137.8000,170.0,limestone,Permian,yes
+42,"Ifoulki cave",30.7080,-9.3275,1250.0,limestone,unknown,no
+43,"Kalakot cave",33.2219,74.4258,826.0,limestone,Precambrian,no
+44,"Kapsia cave",37.6233,22.3539,700.0,limestone,Triassic,yes
+45,"Kulishu cave",39.6800,115.6500,610.0,dolomite,Precambrian,no
+46,"Labyrintgrottan cave",66.0600,14.6800,730.0,limestone,Ordovician,no
+47,"Larshullet cave",66.4381,14.1822,400.0,marble,unknown,no
+48,"Leviathan cave",37.8900,-115.5800,2400.0,limestone,Devonian,yes
+49,"McLean's cave",38.0700,-120.4200,300.0,mixed,Permian,no
+50,"Moaning cave",38.0717,-120.4655,520.0,limestone,Triassic,no
+51,"Natural Bridge caverns",29.6900,-98.3400,306.0,limestone,Cretaceous,yes
+52,"Pau d'Alho cave",-15.2055,-56.8000,340.0,limestone,unknown,no
+53,"Pippikin Pot cave",54.2143,-2.5123,320.0,limestone,Carboniferous,yes
+54,"Sahiya cave",30.6000,77.8667,1190.0,unknown,unknown,no
+55,"Sieben Hengste cave",46.7500,7.8100,1955.0,limestone,Cretaceous,unknown
+56,"Skala Marion cave",40.6387,24.5144,41.0,limestone,Miocene,unknown
+57,"Soylegrotta cave",66.5500,13.9200,280.0,marble,unknown,yes
+58,"Spannagel cave",47.0900,11.6700,2310.0,marble,Jurassic,yes
+59,"Suozi cave",32.4300,107.1700,700.0,limestone,Permian,no
+60,"Taurius cave",-15.5333,167.0167,230.0,unknown,unknown,no
+61,"Timta cave",29.8381,82.0336,1900.0,unknown,unknown,no
+62,"Torrinha cave",-12.3495,-41.6038,680.0,limestone,unknown,unknown
+63,"Tzabnah cave",20.7300,-89.7160,20.0,unknown,unknown,unknown
+64,"Wah Shikhar cave",25.2500,91.8667,1290.0,unknown,unknown,no
+65,"Whiterock cave",4.1500,114.8600,250.0,limestone,Pleistocene,unknown
+66,"White Scar cave",54.1656,-2.4419,255.0,limestone,Carboniferous,yes
+67,"Clearwater/Wind caves connection",4.1000,114.8300,224.0,limestone,unknown,unknown
+68,"Jerusalem west cave",31.7833,35.1500,700.0,dolomite,Cretaceous,unknown
+69,"Xinglong cave",40.5000,117.5000,710.0,dolomite,Precambrian,yes
+70,"Abaco Island cave",26.2300,-77.1600,-45.0,limestone,Pleistocene,no
+71,"Baradla cave",48.4667,20.5000,375.0,limestone,Triassic,yes
+72,"Ascunsă cave",45.0000,22.6000,1050.0,limestone,Cretaceous,yes
+73,"Bourgeois–Delaunay cave",45.6678,0.5133,110.0,limestone,Jurassic,no
+74,"Cango cave",-33.3925,22.2147,687.0,limestone,Precambrian,no
+75,"Cave Without a Name",29.8852,-98.6208,377.0,limestone,Cretaceous,yes
+76,"Ceremosnja cave",44.4000,21.6500,530.0,limestone,Cretaceous,yes
+77,"Chauvet cave",44.2300,4.2600,240.0,limestone,Cretaceous,yes
+78,"Chilibrillo cave",9.1741,-79.6164,60.0,unknown,unknown,no
+79,"Dim cave",36.5340,32.1056,232.0,limestone,Permian,no
+80,"Furong cave",29.2289,107.9036,480.0,dolomite,Cambrian,yes
+81,"Gueldaman cave",36.4333,4.5667,507.0,limestone,Jurassic,yes
+82,"Hollywood cave",-41.9500,171.4700,100.0,limestone,unknown,unknown
+83,"La Mine cave",36.0300,9.6800,975.0,limestone,Cretaceous,yes
+84,"Leány cave",47.7000,18.8400,420.0,limestone,Triassic,no
+85,"Macal Chasm",16.8830,-89.1080,530.0,limestone,Cretaceous,unknown
+86,"Modrič cave",44.2568,15.5372,32.0,limestone,Cretaceous,yes
+87,"Pindal cave",43.4000,-4.5300,24.0,limestone,Carboniferous,yes
+88,"Postojna cave",45.7700,14.2000,529.0,limestone,Cretaceous,yes
+89,"New St Michael's cave",36.1261,-5.3455,325.0,limestone,Jurassic,yes
+90,"Trió cave",46.1100,18.1500,275.0,limestone,Triassic,no
+91,"Urşilor cave",46.5537,22.5695,482.0,limestone,Jurassic,unknown
+92,"Bir-Uja cave",40.4833,72.5833,1435.0,limestone,Devonian,yes
+93,"Green Cathedral cave",4.2333,114.9250,569.0,limestone,unknown,unknown
+94,Anjohibe,-15.5300,46.8800,131.0,mixed,Eocene,no
+95,"Brown's cave",27.8894,-82.5186,25.0,limestone,Eocene,no
+96,"Brown's Folly mine",51.3800,-2.3700,150.0,limestone,Jurassic,yes
+97,"Bue Marino cave",40.2467,9.6228,0.0,limestone,Jurassic,unknown
+98,"Crag cave",52.2500,-9.4300,60.0,limestone,Carboniferous,yes
+99,"Dante cave",-19.4000,17.8833,1400.0,dolomite,unknown,unknown
+100,"Katerloch cave",47.0833,15.5500,900.0,limestone,Devonian,yes
+101,"Klapferloch cave",46.9500,10.5500,1140.0,mixed,Cretaceous,yes
+102,"Korallgrottan cave",64.8900,14.1600,570.0,mixed,Precambrian,yes
+103,"Lapa Doce cave",-12.3344,-41.6043,680.0,limestone,unknown,no
+104,"Liang Luar",-8.5300,120.4300,550.0,limestone,Miocene,no
+105,"Schneckenloch cave",47.4333,9.8667,1285.0,limestone,Cretaceous,unknown
+106,"Seso cave",42.4600,0.0400,794.0,limestone,Eocene,yes
+107,"Yok Balum cave",16.2086,-89.0735,336.0,limestone,Cretaceous,yes
+108,"Clamouse cave",43.7100,3.5500,110.0,mixed,Jurassic,yes
+109,"Molinos cave",40.7925,-0.4492,1050.0,limestone,Cretaceous,yes
+110,"Ma'ale Efrayim cave",32.0660,35.3952,250.0,dolomite,Cretaceous,unknown
+111,"Rainha cave",-5.5782,-37.6432,100.0,limestone,unknown,unknown
+112,"Xinya cave",30.7500,109.4700,1250.0,limestone,Triassic,no
+113,"Paixão cave",-12.6182,-41.0184,598.0,limestone,Precambrian,yes
+114,"Achere cave",8.6036,40.3729,1534.0,limestone,Jurassic,yes
+115,"Hölloch im Mahdtal",47.3781,10.1506,1240.0,limestone,Cretaceous,yes
+116,"Bukit Assam cave",4.0300,114.8000,150.0,unknown,unknown,unknown
+117,"Bunker cave",51.3675,7.6647,184.0,limestone,Devonian,yes
+118,"Clearwater cave",4.1000,114.8333,120.0,limestone,unknown,yes
+119,"Cueva de Asiul",43.3200,-3.5900,285.0,unknown,unknown,yes
+120,"Ejulve cave",40.7600,-0.5900,1240.0,mixed,Cretaceous,yes
+121,"Entrische Kirche cave",47.1600,13.1500,1040.0,mixed,Jurassic,no
+122,"Heshang cave",30.4500,110.4167,294.0,dolomite,Cambrian,yes
+123,"Milchbach cave",46.6167,8.0830,1840.0,limestone,Jurassic,yes
+124,"Pinnacle cave",35.9700,-115.5000,1792.0,limestone,Devonian,no
+125,"Schafsloch cave ",47.2333,9.3833,1890.0,limestone,Cretaceous,unknown
+126,"Tityana cave",30.6419,77.6521,1470.0,limestone,Precambrian,no
+127,"Xiaobailong cave",24.2000,103.3600,1500.0,unknown,unknown,no
+128,"Buckeye creek",37.9800,-80.4000,600.0,limestone,unknown,unknown
+129,"Grotta di Carburangeli",38.1665,13.1603,22.0,limestone,Pleistocene,yes
+130,"Dandak cave",19.0000,82.0000,400.0,unknown,unknown,no
+131,"Grotta di Ernesto",45.9667,11.6500,1167.0,limestone,Jurassic,yes
+132,"Kleegruben cave",47.0800,11.6700,2165.0,marble,Jurassic,yes
+133,"Buca della Renella",44.0800,10.2100,300.0,dolomite,Triassic,yes
+134,"Cave of the Bells",31.7500,-110.7500,1639.0,unknown,unknown,yes
+135,"Grotte de Piste",33.9500,-4.2460,1260.0,dolomite,Jurassic,yes
+136,"Juxtlahuaca cave",17.4000,-99.2000,934.0,limestone,Cretaceous,yes
+137,"Kinderlinskaya cave",54.1500,56.8500,240.0,limestone,Devonian,yes
+138,"Moomi cave",12.5500,54.2000,400.0,limestone,unknown,no
+139,"Oregon caves national monument",42.0981,-123.4072,1300.0,marble,Triassic,yes
+140,"Sanbao cave",31.6670,110.4333,1900.0,limestone,Pleistocene,no
+141,"Sofular cave",41.4167,31.9333,440.0,limestone,Cretaceous,unknown
+142,Tianmen,30.9167,90.0667,4800.0,unknown,unknown,no
+143,"Cova da Arcoia",42.6100,-7.0900,1240.0,unknown,unknown,no
+144,"Botuverá cave",-27.2247,-49.1569,180.0,limestone,Precambrian,yes
+145,"Antro del Corchia",43.9833,10.2167,840.0,mixed,unknown,yes
+146,"Gunung-buda cave (snail shell cave)",4.0200,114.4800,150.0,limestone,Miocene,yes
+147,"Fort Stanton cave",33.5067,-105.4433,1864.0,unknown,unknown,unknown
+148,"Buffalo cave",-24.1428,29.1770,1140.0,dolomite,Precambrian,no
+149,"Arch cave",50.5500,-127.0700,660.0,limestone,Triassic,no
+150,"Exhaleair cave",-41.2833,172.6330,685.0,marble,unknown,no
+151,"Guillotine cave",-42.3108,172.2178,130.0,marble,Ordovician,unknown
+152,"Hoti cave",23.0833,57.3500,800.0,limestone,Cretaceous,no
+153,"Jhumar cave",18.8667,81.8667,600.0,unknown,unknown,yes
+154,"Jiuxian cave",33.5667,109.1000,1495.0,limestone,unknown,no
+155,KNI-51,-15.3000,128.6200,100.0,limestone,Devonian,yes
+156,"Mavri Trypa cave",36.7360,21.7596,70.0,limestone,Palaeocene,no
+157,"Munagamanu cave",15.1500,77.9200,475.0,unknown,unknown,no
+158,"Nettlebed cave",-41.2300,172.6800,390.0,marble,Ordovician,no
+159,"Qunf cave",17.1667,54.3000,650.0,unknown,unknown,no
+160,"Soreq cave",31.7558,35.0226,400.0,dolomite,Cretaceous,yes
+161,"Aurora cave",-45.2953,167.6979,260.0,limestone,Oligocene,unknown
+162,"Calcite cave (Mt Luxmore, Fiordland)",-46.0200,167.7400,1025.0,limestone,Oligocene,unknown
+163,"Gardener's Gut",-38.2500,175.0200,90.0,unknown,unknown,unknown
+164,"Max's cave",-38.2667,175.0167,325.0,unknown,unknown,unknown
+165,"Ruakuri cave",-36.2700,175.0800,80.0,unknown,unknown,unknown
+166,"Te Reinga cave",-38.8200,177.5200,100.0,limestone,Pliocene,unknown
+167,"Waiau cave",-46.0000,167.7300,100.0,unknown,unknown,unknown
+168,"Wazpretti cave",-42.1000,171.4000,95.0,limestone,unknown,unknown
+169,"Doubtful Xanadu",-45.3735,167.0476,960.0,marble,unknown,unknown
+170,"Defore cave",17.1667,54.0833,150.0,limestone,unknown,no
+171,"Devils Hole",36.4254,-116.2915,719.0,unknown,unknown,unknown
+172,"Wolkberg cave",-24.1000,29.8800,1450.0,dolomite,unknown,no
+173,"Perdida cave",18.0000,-67.0000,350.0,limestone,Oligocene,yes
+174,"Zhuliuping cave",26.0167,104.0950,1217.0,limestone,Triassic,unknown
+175,"Yaoba Don cave",28.8000,109.8300,420.0,limestone,Cambrian,unknown
+176,"Qingtian cave",31.3333,110.3667,1630.0,limestone,Holocene,no
+177,"Santo Tomas cave",22.5500,-83.8400,170.0,mixed,Jurassic,no
+178,"Yamen cave",25.4833,107.9000,570.0,unknown,unknown,unknown
+179,"Cloşani cave",45.1000,22.8000,433.0,limestone,Jurassic,yes
+180,"Chillagoe cave",-17.2000,144.6000,489.0,limestone,Devonian,no
+181,"Forestry cave",-9.4890,159.9740,200.0,unknown,unknown,no
+182,"Kotumsar cave",19.0000,82.0000,32.0,unknown,Precambrian,no
+183,"Dos Anas cave",22.3800,-83.9700,120.0,mixed,Jurassic,yes
+184,"Cape range",-22.1000,114.0000,100.0,unknown,unknown,no
+185,"Beatus cave",46.6847,7.7819,875.0,limestone,Cretaceous,unknown
+186,"Bribin cave",-8.0500,110.6330,500.0,limestone,Miocene,no
+187,"Cesare Battisti cave",46.1300,11.0300,1880.0,limestone,Jurassic,yes
+188,"Chan Hol cave",20.1600,-87.5700,-8.5,limestone,Pliocene,no
+189,"Chen Ha cave",16.6769,-89.0925,550.0,limestone,Cretaceous,no
+190,"Cold Water cave",43.4678,-91.9750,356.0,dolomite,Ordovician,unknown
+191,"Devil's Icebox cave",38.1500,-92.0500,250.0,limestone,Carboniferous,unknown
+192,"El Condor cave",-5.9300,-77.3000,860.0,unknown,unknown,unknown
+193,"Frasassi cave system - Grotta Grande del Vento",43.4008,12.9619,257.0,limestone,Jurassic,yes
+194,"Goshute cave",40.0333,-114.7833,2000.0,unknown,unknown,unknown
+195,"Harrison's cave",13.2000,-59.6000,300.0,limestone,Pleistocene,yes
+196,"Karaca cave",40.5443,39.4029,1536.0,limestone,Cretaceous,no
+197,"Klaus Cramer cave",47.2600,9.5200,1964.0,limestone,Cretaceous,unknown
+198,"Lianhua cave, Hunan",29.4800,109.5333,455.0,limestone,Ordovician,no
+199,"Lynds cave",-41.5800,146.2500,300.0,limestone,Ordovician,no
+200,"Minnetonka cave",42.0875,-111.5190,2347.0,limestone,Palaeocene,yes
+201,"Moondyne cave",-34.2700,115.0800,100.0,limestone,Pleistocene,no
+202,"Piani Eterni karst system",46.1600,11.9900,1893.0,mixed,Jurassic,no
+203,"Poleva cave",44.7144,21.7469,390.0,limestone,Cretaceous,no
+204,"Xibalba cave",16.5000,-89.0000,350.0,limestone,Cretaceous,unknown
+205,"São Bernardo cave",-13.8100,-46.3500,631.0,unknown,unknown,yes
+206,"São Matheus cave",-13.8100,-46.3500,631.0,unknown,unknown,yes
+207,"Shatuca cave",-5.7000,-77.9000,1960.0,limestone,Triassic,no
+208,"Tangga cave",-0.3600,100.7600,600.0,mixed,Permian,no
+209,"Uluu-Too cave",40.4000,72.3500,1490.0,limestone,Devonian,yes
+210,"White moon cave",37.0000,-122.1830,170.0,marble,Permian,yes
+211,"Xiangshui cave",25.2500,110.9200,380.0,limestone,Devonian,unknown
+212,"Peqiin cave",32.5800,35.1900,650.0,limestone,Cretaceous,yes
+213,"Tăuşoare cave",47.4333,24.5167,950.0,limestone,Eocene,yes
+214,"Cave C126",-22.1000,113.9000,100.0,limestone,unknown,no
+215,"Chaara cave",33.9558,-4.2461,1260.0,dolomite,Jurassic,no
+216,"Dark cave",27.2000,106.1667,1120.0,unknown,unknown,no
+217,"E'mei cave",29.5000,115.5000,53.0,limestone,Ordovician,no
+218,"Nuanhe cave",41.3333,124.9167,500.0,limestone,Ordovician,no
+219,"Shennong cave",28.7100,117.2600,383.0,mixed,Carboniferous,yes
+220,"Baeg-nyong cave",37.2700,128.5800,250.0,limestone,Ordovician,yes
+221,"La Vierge cave",-19.7572,63.3703,32.0,limestone,Pleistocene,no
+222,"Patate cave",-19.7583,63.3864,20.0,limestone,Pleistocene,no
+223,"Wanxiang cave",33.3200,105.0000,1200.0,limestone,Silurian,yes
+224,"Xianglong cave",33.0000,106.3300,940.0,dolomite,Precambrian,yes
+225,"Chiflonkhakha cave",-18.1222,-65.7739,2660.0,limestone,Cretaceous,no
+226,"Cueva del Diamante",-5.7300,-77.5000,960.0,unknown,unknown,unknown
+227,"El Capitan cave",56.1620,-133.3190,80.0,limestone,Silurian,no
+228,"Bat cave",32.1000,-104.2600,1300.0,unknown,unknown,unknown
+229,"Actun Tunichil Muknal",17.1000,-88.8500,40.0,limestone,Cretaceous,no
+230,"Marota cave",-12.6227,-41.0216,560.0,limestone,Precambrian,no
+231,"Pacupahuain cave",-11.2400,-75.8200,3800.0,limestone,unknown,unknown
+232,"Rio Secreto cave system",20.5900,-87.1300,20.0,limestone,Pliocene,yes
+233,"Robinson cave",33.0000,-107.7000,2007.0,unknown,unknown,unknown
+234,"Santana cave",-24.5308,-48.7267,250.0,limestone,Precambrian,yes
+235,"Cueva del Tigre Perdido",-5.9406,-77.3081,1000.0,unknown,unknown,unknown
+236,"Toca da Boa Vista",-10.1602,-40.8605,600.0,dolomite,Precambrian,no
+237,"Umajalanta cave",-18.1200,-65.7700,2830.0,limestone,Cretaceous,no
+238,"Akalagavi cave",14.9833,74.5167,521.0,limestone,Precambrian,no
+239,"Baluk cave",42.4330,84.7330,2752.0,unknown,unknown,no
+240,"Baratang cave",12.0833,92.7500,20.0,limestone,unknown,no
+241,"Gempa bumi cave",-5.0000,120.0000,140.0,limestone,Pleistocene,unknown
+242,"Haozhu cave",30.6833,109.9833,1017.0,dolomite,Jurassic,unknown
+243,"Kailash cave",18.8445,81.9915,490.0,limestone,Precambrian,no
+244,"Lianhua cave, Shanxi",38.1667,113.7167,1200.0,limestone,Ordovician,no
+245,"Nakarallu cave",14.5200,77.9900,280.0,unknown,Precambrian,no
+246,"Palawan cave",10.2000,118.9000,2.0,limestone,Pleistocene,no
+247,"Shalaii cave",35.1469,45.2958,739.0,limestone,Oligocene,yes
+248,"Shenqi cave",28.3330,103.1000,1407.0,limestone,Triassic,unknown
+249,"Shigao cave",28.1830,107.1670,970.0,unknown,unknown,unknown
+250,"Wuya cave",33.8200,105.4300,1370.0,unknown,unknown,no
+251,"Zhenzhu cave",38.2500,113.7000,975.0,mixed,Cambrian,yes
+252,Andriamaniloke,-24.0510,43.7569,20.0,limestone,Eocene,no
+253,"Hoq cave",12.5866,54.3543,335.0,limestone,Palaeocene,no
+254,PP29,-34.2078,22.0876,10.0,unknown,unknown,no
+255,Mitoho,-24.0477,43.7533,20.0,limestone,Eocene,no
+256,"Lithophagus cave",46.8280,22.6000,545.0,limestone,Jurassic,no
+257,"Akcakale cave",40.4498,39.5365,1530.0,limestone,Jurassic,yes
+258,"B7 cave",49.0000,7.0000,185.0,limestone,Devonian,yes
+259,"Cobre cave",42.9800,-4.3700,1600.0,limestone,Carboniferous,unknown
+260,"Crovassa Azzurra",39.2800,8.4800,410.0,mixed,Cambrian,no
+261,"El Soplao cave",43.2962,-4.3937,550.0,dolomite,Cretaceous,yes
+262,"Bleßberg cave",50.4244,11.0203,500.0,limestone,Triassic,yes
+263,"Orlova Chuka cave",43.5937,25.9597,150.0,limestone,Pleistocene,no
+264,"Strašna peć cave",44.0049,15.0388,74.0,limestone,Cretaceous,yes
+265,"Coves de Campanet",39.7937,2.9683,65.0,dolomite,Triassic,no
+266,"Cueva Victoria",37.6322,-0.8215,75.0,mixed,Triassic,no
+267,"Gruta do Casal da Lebre",39.3000,-9.2667,130.0,limestone,Jurassic,yes
+268,"Pere Noel cave",50.1300,5.1600,230.0,limestone,Devonian,yes
+269,"Gejkar cave",35.8000,45.1645,650.0,limestone,unknown,no
+270,"Gol-E-Zard cave",35.8400,52.0000,2535.0,limestone,unknown,yes
+271,"Jersey cave",-35.7200,148.4900,800.0,limestone,Silurian,no
+272,"Metro cave",-41.9300,171.4700,60.0,limestone,unknown,unknown
+273,"Crystal cave",36.5900,-118.8200,1386.0,unknown,unknown,yes
+274,"Terciopelo cave",10.1700,-85.3300,370.0,limestone,Palaeocene,no
+275,"Buraca Gloriosa",39.5333,-8.7833,420.0,limestone,Jurassic,yes
+276,"Béke cave",48.4833,20.5167,338.0,limestone,Triassic,yes
+277,"Huagapo cave",-11.2700,-75.7900,3850.0,dolomite,Triassic,no
+278,"Pink Panther cave",32.0000,-105.2000,1900.0,unknown,unknown,unknown
+279,"Staircase cave",-34.2071,22.0899,30.0,unknown,unknown,no
+280,"Atta cave",51.1000,7.9000,308.0,limestone,Devonian,yes
+281,"Venado cave",10.5500,-84.7700,380.0,limestone,Miocene,no
+282,"Wadi Sannur cave",28.6167,31.2833,200.0,limestone,Eocene,no
+283,"Babylon cave",-41.9500,171.4700,175.0,limestone,Miocene,unknown
+284,"Creighton`s cave",-40.6300,172.4700,80.0,limestone,unknown,unknown
+285,"Disbelief cave",-38.8200,177.5200,600.0,limestone,Pliocene,unknown
+286,"La Garma cave",43.4306,-3.6658,85.0,limestone,Cretaceous,yes
+287,"Twin Forks cave",-40.6300,172.4800,80.0,limestone,unknown,unknown
+288,"Wet Neck cave",-40.7000,172.4800,90.0,limestone,unknown,unknown
+289,"Gassel Tropfsteinhöhle",47.8228,13.8428,1225.0,limestone,Cretaceous,yes
+290,"Grete-Ruth Shaft",47.5429,12.0272,1435.0,limestone,Cretaceous,no
+292,"Limnon cave",37.9605,22.1403,820.0,limestone,Cretaceous,yes
+293,"Tham Doun Mai",20.7500,102.6500,352.0,limestone,unknown,yes
+294,"Palco cave",18.3500,-66.5000,250.0,limestone,Oligocene,no

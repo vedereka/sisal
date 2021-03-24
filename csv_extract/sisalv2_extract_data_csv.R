@@ -142,7 +142,8 @@ sisal.time.series <- function(s, # sisal object
   t <- s$chrono %>% filter(entity_id %in% eID$entity_id)
   
   # merge isotope information
-  iso <- t %>% left_join(., s$d18O %>% select(sample_id, d18O_measurement, d18O_precision), by = 'sample_id') 
+  # iso <- t %>% left_join(., s$d18O %>% select(sample_id, d18O_measurement, d18O_precision), by = 'sample_id') 
+  iso <- t %>% left_join(., s$d13C %>% select(sample_id, d13C_measurement, d13C_precision), by = 'sample_id') 
   
   # filter for time period 
   ts <- iso %>% filter(interp_age < t_i & interp_age > t_f)
@@ -173,7 +174,13 @@ sisalv2 <- read.sisal.csv(file_path, prefix) # read in data
 
 # extract time series
 # SISAL.time.series (sisalobject, oldest time, more recent time, min lat, max lat, min long, max long, entity status)
-sisal_data <- sisal.time.series (sisalv2, 2000, 0, -90, 90, -180, 180,1)
+sisal_data <- sisal.time.series (sisalv2, 50000000, -72, 38.15, 38.17, 13.15, 13.17,1)
 
 # select only original chronologies:
 sisal_data_subset <- sisal_data$ts %>% filter(., !grepl("sisal",age_model_type))
+
+#save csv files with output
+write.csv(sisal_data$ts, paste(getwd(), '/csv_extract/iso_data_export_all_chronos.csv', sep=""))
+write.csv(sisal_data_subset, paste(getwd(), '/csv_extract/iso_data_export_original_chrono.csv', sep=""))
+write.csv(sisal_data$ref, paste(getwd(), '/csv_extract/data_export_refs.csv', sep=""))
+
